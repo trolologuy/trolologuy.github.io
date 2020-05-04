@@ -1,5 +1,6 @@
-# About
+[![Build Status](https://travis-ci.com/trolologuy/trolologuy.github.io.svg?token=PpmrytELsZrmZhk1sSuy&branch=master)](https://travis-ci.com/trolologuy/trolologuy.github.io)
 
+# About
 You can access my portfolio [by clicking here](https://trolologuy.github.io/)
 
 <details>
