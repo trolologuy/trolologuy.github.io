@@ -7,75 +7,126 @@ noGlobalSocialShare: true
 footer: 'Diese Seite wurde mit vuepress erstellt und wird auf github gehostet.'
 ---
 
-Ich heisse Aloys alias trolologuy und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coordinator__ in Polen :poland: für ein internationales IT-Unternehmen (OVHcloud). Meine Interessen sind Sport: Ski, golf und Downhill-Mountainbike :bike:, das Lesen von Thrillern :books: und Musik hören. Ich bin immer daran interessiert, herauszufinden, wie ich meine technischen Fähigkeiten und Arbeitsabläufe weiter verbessern kann.
+Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coordinator__ in Polen :poland: für ein internationales IT-Unternehmen (OVHcloud).
 
 [[toc]]
 
+<br />
+
 ## <font-awesome-icon icon="language"/> Sprachen
-*Reisen und sich mit neuen Kulturen auseinandersetzen ist eine Herausforderung, die ich sehr schätze, __bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__*
+*Reisen und sich mit neuen Kulturen auseinandersetzen ist eine Herausforderung, die ich sehr schätze, __bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__* (davon 7 monate in Polen, 11 Jahre in Deutschland und Frankreich für die übrigen Jahren). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen um diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.
 
 - :fr: Franzözisch (Muttersprache)
 - :de: Deutsch (C2)
 - :uk: Englisch (C1)
 - :poland: Polnisch (Anfänger)
 
-## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte
-*Aktuell sind noch nicht viele meiner Projekte öffentlich, weitere werden jedoch demnächst folgen*
+<br />
 
- * [Useful Tools](https://trolologuy.github.io/useful-tools/) - *Useful Tools* ist eine Auflistung der Tools, die ich in den letzten Jahren gesammelt habe. Durch die schiere Menge an tools konnte ich sie natürlich noch nicht alle testen.
+## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte
+*Es werden immer mehr !*
+
+* [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - *Useful Tools* ist eine Auflistung der Tools, die ich in den letzten Jahren gesammelt habe. Diese geben mir eine solide Grundlage für neue Projekte.
+ * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - Eine Sammlung von alle tools und Skripte die ich benutze, um macOS <font-awesome-icon :icon="['fab', 'apple']" /> nach meinen Bedürfnissen einzurichten.
+
+<br />
 
 ## <font-awesome-icon icon="code"/> XP / Kenntnisse
-*Aus Datenschutzgründen möchte ich nicht meinen gesamten beruflichen Werdegang öffentlich bekannt geben, wenn Sie Fragen haben, können Sie sich gerne direkt an mich wenden*
+*Sie finden hier eine kurze Zusammenfassung meiner Arbeitserfahrung. Lassen Sie uns auch gerne persönnlich darüber sprechen. Ich gebe Ihnen gerne mehr Details und beantworte jegliche Fragen*
 
 *Ich habe ein Studium als Entwickler begonnen, bis ich herausfand, dass Systemadministration / DevOps / SRE und Projektmanagement-bezogene Themen besser zu mir passen.*
 
 - :poland: 2019 - Aktuelle Position: "__Operations Coordinator__" in Polen.
 - :de: 2018 - 2019: "__Web-Support-Agent__" in Deutschland.
 - :de: 2016 - 2018: Deutsche Ausbildung zum "__Fachinformatiker - Systemintegration__".
-Seit der Ausbildung arbeite ich seit zweieinhalb Jahren im IT-Bereich.
 - :fr: 2012 - 2014: Informatikstudium in Epitech Straßburg (Frankreich) + 6 Monate Praktikum
 
-### Kurze Zusammenfassung meiner SysAdmin-Erfahrung
-Während meiner Ausbildung war ich der einzige Sysadmin in der Firma. Meine Aufgabe war, unter anderen die Server und Dienste einzurichten: Ich setzte Rocket.Chat zur interne Kommunikation zwischen der Firma und externen Mitarbeitern (einige hundert Benutzer insgesamt), verschiedene Mailserver (Courrier IMAP -> Dovecot) und Webhosting (Confixx -> Plesk) ein, ...
-In der Mitte der Ausbildung beschloss ich die Firma zu wechseln, was mich zu OVHcloud brachte.
-Mein Abschlussprojekt der Ausbildung war die Einrichtung eines geclusterten ELK-Stack (Elasticsearch, Kibana, Logstash) zur Überwachung von ein Dutzend Rechner.
+<br />
 
-Ich bin seit vielen Jahren System-Admnistrator einer Gite im Elsass (Frankreich).
-Zu meinen Aufgaben gehört die Einrichtung des Wifi - Design des deployment , Kabelmanagement, Einrichtung der Access Points (Unifi), Einrichtung der Firewall (pfsense), ... - die Verwaltung der Backup-Strategie auf dem NAS (Synology), die Einrichtung der Computer (macOS, Windows, Linux), ...
+### <font-awesome-icon icon="server"/> Kurze Zusammenfassung meiner SysAdmin-Erfahrung
+Während meiner Ausbildung war ich der einzige Sysadmin in der Firma. Meine Aufgabe war, unter anderen, Server und Dienste einzurichten sowie die Verwaltung von Benutzern.
+
+Unter andere Tools und Dienste habe ich Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) zur interne Kommunikation zwischen der Firma und externen Mitarbeitern aufegesetzt (einige hundert Benutzer insgesamt), sowie auch verschiedene Mailserver (Courrier IMAP -> Dovecot) und Webhosting Dienste (Confixx -> Plesk migration, Apache / Nginx), ... Ich automatisierte Tasks mit Bash und verschiedenen CLI-Tools (IMAPsync, mjml.io, ...).
+
+In der Mitte der Ausbildung beschloss ich die Firma zu wechseln, was mich zu OVHcloud brachte.
+Mein Abschlussprojekt der Ausbildung war die Einrichtung eines geclusterten ELK-Stack (Elasticsearch, Kibana, Logstash) zur Überwachung (Monitoring) von Rechner um mehr Erkenntnisse über die Leistung dieser Maschinen zu gewinnen.
+
+<br />
+
+*Laut [Pluralsight IQ](https://stackoverflow.com/story/aloys):*
+
+<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
+<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/nCM00.png" href="https://stackoverflow.com/story/aloys" alt="linux administration" width="250"/></a>
+<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/5YB9e.png" href="https://stackoverflow.com/story/aloys" alt="python" width="250"/></a>
+
+<br />
+
+Ich bin seit mehr als 10 Jahren System-Admnistrator einer Gite im Elsass (Frankreich).
+Zu meinen Aufgaben gehört:
+- die Einrichtung des wlans: Design des deployment, Kabelmanagement, Einrichtung der Access Points (Unifi), Einrichtung der Firewall (pfsense), ...
+- die Verwaltung der Backup-Strategie auf dem NAS (Synology)
+- die Einrichtung der Computer (<font-awesome-icon :icon="['fab', 'apple']" />, <font-awesome-icon :icon="['fab', 'windows']" />, <font-awesome-icon :icon="['fab', 'linux']" />) durch Dienste wie JAMF, teamviewer, ...
+- Erstellung, Übersetzung und Pflege der Website (basierend auf wordpress)
 
 *Systemadministration oder Projektmanagement sind Richtungen, in denen ich meine Karriere fortsetzen möchte. Mit etwas Erfahrung in verschiedenen Bereichen kann ich einen guten Einblick und ein tieferes Verständnis der zugrunde liegenden Problematiken liefern, die bei der Verwaltung eines Projekts auftreten können, oder Schwierigkeiten in der Kommunikation zwischen Technikern und Management erkennen und beheben.*
 
-### Programmier-/Skriptsprachen und Technologien
+<br />
+
+### <font-awesome-icon icon="code-branch"/> Programmier-/Skriptsprachen und Technologien
 
 ::: tip <font-awesome-icon :icon="['fas', 'tools']"/> Tools, die ich derzeit benutze:
 - [Visual Studio Code](https://code.visualstudio.com/) (mit ganz viele plugins)
 - [Oh My Zsh](https://ohmyz.sh/) - Mein Lieblingsshell
 - [Vagrant](https://www.vagrantup.com/) - Um den klassischen "es hat aber auf mein Rechner funktionniert" zu vermeiden
-- [Python](https://www.python.org/about/)
-- [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))  <font-awesome-icon icon="terminal"/> 
+- [<font-awesome-icon :icon="['fab', 'python']" /> Python](https://www.python.org/about/)
+- [<font-awesome-icon icon="terminal"/> Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
 - [Ansible](https://www.ansible.com/overview/how-ansible-works)
-- [Jira](https://www.atlassian.com/software/jira)
-- [Confluence](https://www.atlassian.com/software/confluence)
-- [Hammerspoon](https://www.hammerspoon.org/) (macOS-Automatisierungstool)
-- [Trello](https://trello.com/) (ein [Kanban](https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung)) board)
+- [<font-awesome-icon :icon="['fab', 'jira']" /> Jira](https://www.atlassian.com/software/jira)
+- [<font-awesome-icon :icon="['fab', 'confluence']" /> Confluence](https://www.atlassian.com/software/confluence)
+- [Hammerspoon](https://www.hammerspoon.org/) (macOS <font-awesome-icon :icon="['fab', 'apple']" /> - Automatisierungstool)
+- [<font-awesome-icon :icon="['fab', 'trello']" /> Trello](https://trello.com/) - ein [Kanban](https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung)) board
 :::
 
-*Ich habe mich dafür entschieden, die geschätzte Zeit, die ich mit den verschiedenen Technologien verbracht habe, anzuzeigen. Ich bin der Feste Überzeugung dass man nie in der Lage sein kann, irgendeine Technologie perfekt zu beherrschen, so dass die damit verbrachte Zeit wahrscheinlich eine bessere Metrik ist, als ein Fortschrittsbalken, den man aktuell öfters in Lebensläufe sieht, jemals sein wird.*
+*Ich habe mich dafür entschieden, die geschätzte Zeit, die ich mit den verschiedenen Technologien verbracht habe, anzuzeigen. Ich bin der Feste Überzeugung, dass die mit einer bestimmten Technologie verbrachte Zeit wahrscheinlich eine bessere Metrik ist als ein Fortschrittsbalken (und sie ist genauer). Daneben steht, wie ich meine Fähigkeiten einschätzen würde.*
 
-- __git__: 6 Jahre
-- __Bash__: 5 Jahre
-- __C__: 2 Jahre
-- __Javascript__: 1 Jahr
-- __node.js__: 1 Jahr
-- __MongoDB__: 1 Jahr
-- __Python__: 1 Jahr
-- __Plesk__: 1 Jahr
-- __Java__: 6 Monate
-- __C++__: 6 Monate
-- __pfsense__: Grundkenntnisse.
-- __MySQL__: Grundkenntnisse.
+::: details Für mehr Details, Bitte hier klicken
+| Technologie        | Erfahrung   | Selbsteinschätzung |
+| :------------- |:-------------:| :-------------:|
+| __git__     |  6 Jahre | ★★★★☆  | 
+| __<font-awesome-icon :icon="['fab', 'apple']" /> macOS__      | 12 Jahre      | ★★★★☆ |
+| __<font-awesome-icon :icon="['fab', 'windows']" /> windows__      | 8 Jahre      | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fab', 'linux']" /> linux__      | 8 Jahre      | ★★★☆☆ |
+| __Bash__      | 5 Jahre      | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fab', 'python']" /> Python__ | 1 Jahr  | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fab', 'docker']" /> Docker__ | 1 Jahr | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fab', 'jira']" /> jira__ | 3 Jahre      | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fab', 'confluence']" /> confluence__ | 3 Jahre      | ★★★☆☆ |
+| __C__ | 2 Jahre      | ★★★☆☆ |
+| __Plesk__ | 2 Jahre | ★★★☆☆ |
+| __pfsense__ | 2 Jahre | ★★★☆☆ |
+| __MySQL__ | 2 Jahre | ★★★☆☆ |
+| __ansible__ | 1 Jahr | ★★☆☆☆ |
+| __proxmox__ | 1 Jahr  | ★★☆☆☆ |
+| __grafana__ | 1 Jahr  | ★★☆☆☆ |
+| __ELK Stack__ | 1 Jahr  | ★★☆☆☆ |
+| __C++__ | 2 Jahre  | ★★☆☆☆ |
+| __<font-awesome-icon :icon="['fab', 'js']" /> javascript__ | 1 Jahr  | ★☆☆☆☆ |
+| __<font-awesome-icon :icon="['fab', 'node']" /> node.js__ | 1 Jahr  | ★☆☆☆☆ |
+| __MongoDB__ | 1 year  | ★☆☆☆☆ |
+| __<font-awesome-icon :icon="['fab', 'java']" /> Java__ | 2 Jahr | ★☆☆☆☆ |
+:::
+
+<br />
+
+## <font-awesome-icon icon="user-astronaut"/> Hobbies
+Meine Interessen sind Sport (Ski, golf und Downhill-Mountainbike :bike:), das Lesen von Thrillern :books: und Musik hören.
+Sowohl das Lesen als auch Sport geben mir die nötige Ausgewogenheit, um eine gute Work-Life-Balance aufrechtzuerhalten, der bei einer IT-gebundene Tätigkeit erforderlich ist.
+Ich bin immer daran interessiert, herauszufinden, wie ich meine Fähigkeiten und Arbeitsabläufe weiter verbessern kann sei es für meine Hobbies oder für der arbeit.
+
+<br />
 
 ## <font-awesome-icon icon="users"/> Kontakt
-- [Github](https://github.com/trolologuy)
-- [Stack Overflow](https://stackoverflow.com/users/2695641/trolologuy)
+- [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
+- [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
+- [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)
 - Wenn Interesse besteht mich zu kontaktieren bitte eine email [an dieser Adresse senden](mailto:trolologuy.github@gmail.com).

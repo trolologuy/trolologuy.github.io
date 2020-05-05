@@ -7,14 +7,14 @@ noGlobalSocialShare: true
 footer: made with vuepress, hosted on github
 ---
 
-I'm Aloys also known under the pseudonym trolologuy, 26 years old, I'm currently working as an __Operations Coordinator__ in Poland :poland: for an international IT company (OVHcloud, a big player in the Cloud universe).
+I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ in Poland :poland: for an international IT company (OVHcloud, a big player in the Cloud universe).
 
 [[toc]]
 
 <br />
 
 ## <font-awesome-icon icon="language"/> Spoken Languages
-*Traveling and getting to know new cultures is an activity I value a lot, so far __I lived more than ten years abroad__ (Poland for 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
+*Traveling and getting to know new cultures is an activity I value a lot, so far __I lived more than ten years abroad__ (Poland since 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
 
 - :fr: French (Native speaker)
 - :de: German (C2)
@@ -27,7 +27,7 @@ I'm Aloys also known under the pseudonym trolologuy, 26 years old, I'm currently
 *Stay tuned, more will follow*
 
  * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - *Useful tools* sorts the tools I gathered in the last years. They give me a solid base to start new projects.
- * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - A collection of everything I use to setup macOS to suit my needs.
+ * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
 
 <br />
 
@@ -39,15 +39,14 @@ I'm Aloys also known under the pseudonym trolologuy, 26 years old, I'm currently
 - :poland: 2019 - current position: "__Operations Coordinator__" in Poland.
 - :de: 2018 - 2019: "__Web Support agent__" in Germany.
 - :de: 2016 - 2018: German Apprenticeship as "__Computer Science Expert with focus on System Integration__".
-Since the Apprenticeship, I've been working in IT for 2 and a half years now.
 - :fr: 2012 - 2014: Computer science studies in Epitech Strasbourg + 6 month Internship
 
 <br />
 
 ### <font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience
-During my apprenticeship I was the only Sysadmin in the company, setting up maintaining and securing servers and services.
+During my apprenticeship I was the only Sysadmin in the company, setting up maintaining and securing servers and services but also managing users.
 
-Amongst other tools and services, I deployed rocket chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) for the communication between the company and external contributors (a few hundred users in total), different mail servers (courier IMAP → Dovecot) and Webhosting (Confixx → Plesk), ... I automated tasks using Bash and several CLI tools (IMAPsync, ...).
+Amongst other tools and services, I deployed Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) for the communication between the company and external contributors (a few hundred users in total), different mail servers (courier IMAP → Dovecot) and Webhosting Services (Confixx → Plesk migration, Apache / Nginx), ... I automated tasks using Bash and several CLI tools (IMAPsync, mjml.io ...).
 
 In the middle of my apprenticeship, I decided to change the company to join OVHcloud.
 My final project for the apprenticeship was setting up a clustered ELK-Stack (Elasticsearch, Kibana, Logstash) to monitor a fleet of machines and gain more insights about the performance of those machines.
@@ -63,9 +62,9 @@ My final project for the apprenticeship was setting up a clustered ELK-Stack (El
 <br />
 
 I've been the administrator of a gîte in Alsace (France) for more then 10 years, tasks included:
-- setting up the wifi (design the deployment, cable management, setting up the Access Points (Unifi), Setting up the Firewall (pfsense) and the VLANs, ... 
+- setting up the wifi: design the deployment, cable management, setting up the Access Points (Unifi), Setting up the Firewall (pfsense) and the VLANs, ... 
 - managing the backup and data storage strategy on the NAS (Synology)
-- setting up the computers and managing them (macOS, Windows, Linux), using tools such as JAMF, teamviewer, ...
+- setting up the computers and managing them (<font-awesome-icon :icon="['fab', 'apple']" />, <font-awesome-icon :icon="['fab', 'windows']" />, <font-awesome-icon :icon="['fab', 'linux']" />) using tools such as JAMF, teamviewer, ...
 - creating, translating and maintaining the website (based on wordpress)
 
 *System Administration or Project Management are directions in which I would like to pursue my career. Having some experience in different fields allows me to have a good insight and a more in-depth understanding of underlying issues that can be faced when managing a project, or to spot difficulties in communication between techies and management and address them.*
@@ -86,11 +85,11 @@ I've been the administrator of a gîte in Alsace (France) for more then 10 years
 - [<font-awesome-icon :icon="['fab', 'trello']" /> Trello](https://trello.com/) - a [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) board
 :::
 
-*I chose to display the real time i spent using the different technologies I encountered, because I think that the time spent working with a specific technology is probably a better metric than a progress bar (and it's more accurate). Next to it is how I would assess my skills*
+*I chose to display an estimation of the real time i spent using the different technologies I encountered, because I think that the time spent working with a specific technology is probably a better metric than a progress bar (and it's more accurate). Next to it is how I would assess my skills*
 
 ::: details See the details by clicking here
 | Technology        | Years of experience   | Self-assesment |
-| :------------- |:-------------:| -------------:|
+| :------------- |:-------------:| :-------------:|
 | __git__     |  6 years | ★★★★☆  | 
 | __<font-awesome-icon :icon="['fab', 'apple']" /> macOS__      | 12 years      | ★★★★☆ |
 | __<font-awesome-icon :icon="['fab', 'windows']" /> windows__      | 8 years      | ★★★☆☆ |
@@ -119,7 +118,7 @@ I've been the administrator of a gîte in Alsace (France) for more then 10 years
 
 ## <font-awesome-icon icon="user-astronaut"/> Hobbies
 I enjoy practising sports (skiing, golf and downhill mountainbiking :bike:), reading thrillers :books: and listening to music.
-Both reading and sports give me the balance needed to maintain a good work/life balance as well as an equilibrium with the mental focus required when working in IT.
+Both reading and sports give me the focus needed to maintain a good work/life balance required when working in IT.
 Globally speaking I'm always keen to learn and on finding out how to further improve my skills and workflows be it when doing my hobbies or working.
 
 <br />
