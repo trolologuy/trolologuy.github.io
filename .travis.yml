@@ -15,8 +15,8 @@ deploy:
   on:
     branch: sources
   after_success:
-    - echo "Build successful"
-    - curl -s -X POST https://api.telegram.org/bot${BOT_TOKEN}/sendMessage -d chat_id="${CHAT_ID}" -d text="Succesfull build by Travis-CI build number: ${TRAVIS_JOB_ID} Test results: ${TRAVIS_TEST_RESULT}"
+    - echo "Build successfull"
+    - bash scripts/telegram-notifier.sh success
   after_failure:
     - echo "Build failed"
-    - curl -s -X POST https://api.telegram.org/bot${BOT_TOKEN}/sendMessage -d chat_id="${CHAT_ID}" -d text="Unsuccesfull build by Travis-CI build number: ${TRAVIS_JOB_ID} Test results: ${TRAVIS_TEST_RESULT}"
+    - bash scripts/telegram-notifier.sh failure
