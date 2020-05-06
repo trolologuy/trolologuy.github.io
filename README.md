@@ -4,7 +4,7 @@ This portfolio was created using [vuepress](vuepress.vuejs.org/) with tweaks to 
 
 The build is automated through Travis CI, the current status is:  [![Build Status](https://travis-ci.com/trolologuy/trolologuy.github.io.svg?branch=master)](https://travis-ci.com/trolologuy/trolologuy.github.io)
 
-Notifications regarding the build state are sent through a Telegram bot integration.
+Notifications regarding the build state are sent through a Telegram bot integration, [all the details can be found here](https://gist.github.com/trolologuy/c290ac3edc46fe6bc2b69ccc497cd4bc).
 
 You can access the portfolio [by clicking here](https://trolologuy.github.io/)
 
