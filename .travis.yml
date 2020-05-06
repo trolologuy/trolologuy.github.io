@@ -14,7 +14,4 @@ deploy:
   keep_history: true
   on:
     branch: sources
-  after_success:
-    - ./telegram-notifier.sh
-  after_failure:
-    - ./telegram-notifier.sh
+  script: ./telegram-notifier.sh
