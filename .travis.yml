@@ -15,7 +15,6 @@ deploy:
   on:
     branch: sources
   after_success:
-    script: ./telegram-notifier.sh success
+    - ./telegram-notifier.sh success
   after_failure:
-    - echo "Build failed"
     - ./telegram-notifier.sh failure
