@@ -15,6 +15,8 @@ deploy:
     on:
       branch: sources
   - provider: script
-    script: source <(curl -SLs https://gist.githubusercontent.com/trolologuy/c290ac3edc46fe6bc2b69ccc497cd4bc/raw/63b5796eff08f039bad497aabe65ed2abbcf473d/telegram-notifier.sh)
+    script: bash ./notify.sh
     on:
       branch: sources
+
+
