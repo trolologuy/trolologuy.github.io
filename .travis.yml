@@ -6,12 +6,17 @@ install:
 script:
   - yarn docs:build # npm run docs:build
 deploy:
-  provider: pages
-  target_branch: master
-  skip_cleanup: true
-  local_dir: docs/.vuepress/dist
-  github_token: $GITHUB_TOKEN # A token generated on GitHub allowing Travis to push code on you repository. Set in the Travis settings page of your repository, as a secure variable
-  keep_history: true
-  on:
-    branch: sources
-  script: ./telegram-notifier.sh
+  - provider: pages
+    target_branch: master
+    skip_cleanup: true
+    local_dir: docs/.vuepress/dist
+    github_token: $GITHUB_TOKEN # A token generated on GitHub allowing Travis to push code on you repository. Set in the Travis settings page of your repository, as a secure variable
+    keep_history: true
+    on:
+      branch: sources
+  - provider: script
+    script: bash ./telegram-notifier.sh
+    on:
+      branch: sources
+
+
