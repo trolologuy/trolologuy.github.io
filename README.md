@@ -1,9 +1,18 @@
 # About
 
-You can access my portfolio [by clicking here](https://trolologuy.github.io/)
+This portfolio was created using [vuepress](vuepress.vuejs.org/) with tweaks to the [succinct](https://github.com/Microflash/vuepress-theme-succinct) theme.
 
+The build is automated through Travis CI, the current status is:  [![Build Status](https://travis-ci.com/trolologuy/trolologuy.github.io.svg?branch=master)](https://travis-ci.com/trolologuy/trolologuy.github.io)
+
+Notifications regarding the build state are sent through a Telegram bot integration.
+
+You can access the portfolio [by clicking here](https://trolologuy.github.io/)
+
+To access the roadmap, [click here](https://github.com/trolologuy/trolologuy.github.io/projects/1)
+
+## Installation details
 <details>
-<summary>Installation details</summary>
+<summary>click here</summary>
 
 # Install VuePress 
 
@@ -49,10 +58,13 @@ yarn add -D vuepress-plugin-mermaidjs
 yarn add vuepress-plugin-social-share -D
 ```
 
-## TODO
-[ ] configure [social share](https://github.com/ntnyq/vuepress-plugin-social-share) in order to have nice buttons for the 'contact' section 
+</details>
 
 ## Source of ideas for future functionalities
+
+<details>
+<summary>click here</summary>
+
 * [components](https://vuejs.org/v2/guide/components.html)
 * [cyberpunk-vue](https://github.com/cyberpunk-ui/cyberpunk-vue)
 * [developer-docs](https://github.com/onnezezt/developer-docs)
@@ -64,5 +76,4 @@ yarn add vuepress-plugin-social-share -D
 * [vuepress-theme-hope](https://github.com/Mister-Hope/vuepress-theme-hope)
 * [vuepress-theme-ktquez](https://github.com/ktquez/vuepress-theme-ktquez)
 * [vuepressbook](https://vuepressbook.com/)
-
 </details>
