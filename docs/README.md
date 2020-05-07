@@ -26,8 +26,8 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects
 *Stay tuned, more will follow*
 
- * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - *Useful tools* sorts the tools I gathered in the last years. They give me a solid base to start new projects.
- * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
+ * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Useful Tools on GitHub"></iframe> - *Useful tools* sorts the tools I gathered in the last years. They give me a solid base to start new projects.
+ * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
 
 <br />
 
