@@ -18,7 +18,8 @@ Jestem Aloys, 26 lat. Obecnie pracuję jako __Koordynator Operacyjny__ w Polsce 
 <br />
 
 ## <font-awesome-icon icon="language"/> Języki mówione
-*Podróżowanie i poznawanie nowych kultur jest zajęciem, które bardzo cenię, do tej pory __ Żyłem ponad dziesięć lat za granicą__ (Polska przez 7 miesięcy, Niemcy przez 11 lat, a Francja przez resztę). Przeprowadzka do nowego kraju oraz wymagane zdolności adaptacyjne i elastyczność stały się dla mnie drugą naturą. Spędzenie czasu za granicą pozwoliło mi stać się bardziej otwartym i zdolnym do adaptacji. W najbliższych latach chciałbym przenieść się do Kanady <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />. Nową Zelandię lub Australię, aby jeszcze bardziej /poprawić te umiejętności i rzucić sobie wyzwanie.*
+*Podróżowanie i poznawanie nowych kultur jest zajęciem, które bardzo cenię.*
+*Do tej pory __Żyłem ponad dziesięć lat za granicą__ (Polska przez 7 miesięcy, Niemcy przez 11 lat, a Francja przez resztę). Przeprowadzka do nowego kraju oraz wymagane zdolności adaptacyjne i elastyczność stały się dla mnie drugą naturą. Spędzenie czasu za granicą pozwoliło mi stać się bardziej otwartym i zdolnym do adaptacji. W najbliższych latach chciałbym przenieść się do Kanady <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />. Nową Zelandię lub Australię, aby jeszcze bardziej /poprawić te umiejętności i rzucić sobie wyzwanie.*
 
 - :fr: Francuski (native speaker)
 - :de: Niemiecki (C2)
@@ -30,6 +31,7 @@ Jestem Aloys, 26 lat. Obecnie pracuję jako __Koordynator Operacyjny__ w Polsce 
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekty
 *Trzymajcie się, więcej będzie po*
 
+* [Moje portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star My portfolio on GitHub"></iframe> - Strona, którą obecnie przeglądasz jest również jednym z moich projektów. Bazuje na [vuepress](https://vuepress.vuejs.org/), jest automatycznie wdrażany za pomocą [Travis CI](https://travis-ci.com/) i automatycznie powiadamia mnie o stanie budowy za pomocą samodzielnie stworzonego bota telegramowego (używam tego samego systemu wdrażania i technologii dla *Useful Tools*).
 * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - *Useful tools* sortuje narzędzia, które zebrałem w ostatnich latach. Dają mi one solidną podstawę do uruchamiania nowych projektów.
 * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - Zbiór wszystkiego, czego używam do ustawiania macOS <font-awesome-icon :icon="['fab', 'apple']" /> aby dopasować się do moich potrzeb.
 

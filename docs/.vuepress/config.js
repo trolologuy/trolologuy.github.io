@@ -60,26 +60,26 @@ module.exports = {
   ],
   locales: {
     '/': {
-        lang: 'English', // this will be set as the lang attribute on <html>
-        title: 'Portfolio',
-        description: 'My portfolio'
-      },
-      '/de/': {
-        lang: 'Deutsch',
-        title: 'Portfolio',
-        description: 'Mein Portfolio'
-      },
-      '/fr/': {
-        lang: 'Français',
-        title: 'Portfolio',
-        description: 'Mon Portfolio'
-      },
-      '/pl/': {
-        lang: 'Polski',
-        title: 'Portfolio',
-        description: 'Mon Portfolio'
-      }
-  },
+      lang: '🇬🇧 - English', // this will be set as the lang attribute on <html>
+      title: 'Portfolio',
+      description: 'My portfolio'
+    },
+    '/de/': {
+      lang: '🇩🇪 - Deutsch',
+      title: 'Portfolio',
+      description: 'Mein Portfolio'
+    },
+    '/fr/': {
+      lang: '🇫🇷 - Français',
+      title: 'Portfolio',
+      description: 'Mon Portfolio'
+    },
+    '/pl/': {
+      lang: '🇵🇱 - Polski',
+      title: 'Portfolio',
+      description: 'Mon Portfolio'
+    }
+},
   themeConfig: {
     // default value is true. Set it to false to hide next page links on all pages
     nextLinks: false,

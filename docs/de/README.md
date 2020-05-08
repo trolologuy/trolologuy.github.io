@@ -14,7 +14,8 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 <br />
 
 ## <font-awesome-icon icon="language"/> Sprachen
-*Reisen und sich mit neuen Kulturen auseinandersetzen ist eine Herausforderung, die ich sehr schätze, __bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__* (davon 7 monate in Polen, 11 Jahre in Deutschland und Frankreich für die übrigen Jahren). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen um diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.
+*Reisen und sich mit neuen Kulturen auseinandersetzen ist eine Herausforderung, die ich sehr schätze.* 
+*__Bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__ (davon 7 Monate in Polen, 11 Jahre in Deutschland und Frankreich für die übrigen Jahren). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen um diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.*
 
 - :fr: Franzözisch (Muttersprache)
 - :de: Deutsch (C2)
@@ -26,8 +27,9 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte
 *Es werden immer mehr !*
 
+* [Mein Portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Mein Portfolio auf GitHub"><</iframe> - Die Seite, die Sie gerade sehen, ist ebenfalls eines meiner Projekte. Sie basiert auf [vuepress](https://vuepress.vuejs.org/), wird automatisch mit [Travis CI](https://travis-ci.com/) deployed und schickt mir durch einen selbstgebauten Telegramm-Bot automatisch Nachrichten über den Build-Status (ich benutze das gleiche Deployment-System und die gleichen Technologien für *Useful Tools*).
 * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - *Useful Tools* ist eine Auflistung der Tools, die ich in den letzten Jahren gesammelt habe. Diese geben mir eine solide Grundlage für neue Projekte.
- * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - Eine Sammlung von alle tools und Skripte die ich benutze, um macOS <font-awesome-icon :icon="['fab', 'apple']" /> nach meinen Bedürfnissen einzurichten.
+* [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - Eine Sammlung von alle tools und Skripte die ich benutze, um macOS <font-awesome-icon :icon="['fab', 'apple']" /> nach meinen Bedürfnissen einzurichten.
 
 <br />
 
@@ -68,7 +70,7 @@ Zu meinen Aufgaben gehört:
 - die Einrichtung der Computer (<font-awesome-icon :icon="['fab', 'apple']" />, <font-awesome-icon :icon="['fab', 'windows']" />, <font-awesome-icon :icon="['fab', 'linux']" />) durch Dienste wie JAMF, teamviewer, ...
 - Erstellung, Übersetzung und Pflege der Website (basierend auf wordpress)
 
-*Systemadministration oder Projektmanagement sind Richtungen, in denen ich meine Karriere fortsetzen möchte. Mit etwas Erfahrung in verschiedenen Bereichen kann ich einen guten Einblick und ein tieferes Verständnis der zugrunde liegenden Problematiken liefern, die bei der Verwaltung eines Projekts auftreten können, oder Schwierigkeiten in der Kommunikation zwischen Technikern und Management erkennen und beheben.*
+*Systemadministration oder Projektmanagement sind Richtungen, in denen ich meine Karriere fortsetzen möchte. Mit etwas Erfahrung in verschiedenen Bereichen kann ich einen guten Einblick und ein tieferes Verständnis der zugrunde liegenden Problematiken liefern, die bei der Verwaltung eines Projekts auftreten können. Sowie auch Schwierigkeiten in der Kommunikation zwischen Technikern und Management erkennen und beheben.*
 
 <br />
 

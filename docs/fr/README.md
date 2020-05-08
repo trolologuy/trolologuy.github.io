@@ -14,7 +14,8 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 <br />
 
 ## <font-awesome-icon icon="language"/> Langues
-* Voyager et découvrir de nouvelles cultures est une activité que j'apprécie beaucoup, jusqu'à présent __ j'ai vécu plus de dix ans à l'étranger__ (la Pologne depuis 7 mois, l'Allemagne pendant 11 ans et la France pour le reste). S'installer dans un nouveau pays requiert une certaine capacité d'adaptation et beaucoup de flexibilité. Ces dernières sont devenues une seconde nature pour moi. Passer du temps à l'étranger m'a permis de devenir plus ouvert d'esprit et d'améliorer ma capacité d'adaptation. Dans les années à venir, j'aimerais m'installer au Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, en Nouvelle-Zélande ou en Australie*
+*Voyager et découvrir de nouvelles cultures est une activité que j'apprécie beaucoup.*
+*Jusqu'à présent __ j'ai vécu plus de dix ans à l'étranger__ (la Pologne depuis 7 mois, l'Allemagne pendant 11 ans et la France pour le reste). S'installer dans un nouveau pays requiert une certaine capacité d'adaptation et beaucoup de flexibilité. Ces dernières sont devenues une seconde nature pour moi. Passer du temps à l'étranger m'a permis de devenir plus ouvert d'esprit et d'améliorer ma capacité d'adaptation. Dans les années à venir, j'aimerais m'installer au Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, en Nouvelle-Zélande ou en Australie*
 
 - :fr: Français (Langue maternelle)
 - :de: Allemand (C2)
@@ -26,6 +27,7 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets
 *Au jour d'aujourd'hui, peu de mes projets sont publics, celà va évoluer dans les prochains mois*
 
+* [Mon portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star My portfolio on GitHub"></iframe> - La page que vous consultez actuellement est également un de mes projets. Elle est basée sur [vuepress](https://vuepress.vuejs.org/) et est automatiquement déployée en utilisant [Travis CI](https://travis-ci.com/) qui me notifie automatiquement de l'état du déploiement par un bot telegram que j'ai réalisé (j'utilise le même système de déploiement et les mêmes technologies pour *Useful Tools*)
 * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> -Un listing des outils que je trouve utile et que j'ai rassemblés ces dernières années. Ils me permettent d'avoir une base solide pour mes projets.
 * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - Une collection de tous les outils que j'utilise pour configurer macOS <font-awesome-icon :icon="['fab', 'apple']" /> en fonction de mes besoins.
 

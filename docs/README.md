@@ -14,7 +14,8 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 <br />
 
 ## <font-awesome-icon icon="language"/> Spoken Languages
-*Traveling and getting to know new cultures is an activity I value a lot, so far __I lived more than ten years abroad__ (Poland since 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
+*Traveling and getting to know new cultures is an activity I value a lot.*
+*So far __I lived more than ten years abroad__ (Poland since 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
 
 - :fr: French (Native speaker)
 - :de: German (C2)
@@ -25,9 +26,9 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects
 *Stay tuned, more will follow*
-
- * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Useful Tools on GitHub"></iframe> - *Useful tools* sorts the tools I gathered in the last years. They give me a solid base to start new projects.
- * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
+* [My portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star My portfolio on GitHub"></iframe> - The page you are currently browsing is also one of my projects. It's based on [vuepress](https://vuepress.vuejs.org/), it's automatically deployed using [Travis CI](https://travis-ci.com/) and automatically notifies me regarding the build state through a selfmade telegram bot (I use the same deployment system and technologies for *Useful Tools*).
+* [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Useful Tools on GitHub"></iframe> - *Useful tools* sorts the tools I gathered in the last years. They give me a solid base to start new projects.
+* [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
 
 <br />
 
