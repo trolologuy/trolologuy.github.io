@@ -9,11 +9,17 @@ footer: made with vuepress, hosted on github
 
 I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ in Poland :poland: for an international IT company (OVHcloud, a big player in the Cloud universe).
 
-[[toc]]
+* [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
+* [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
+* [<font-awesome-icon icon="code"/> XP / Technical Skills](#skills)
+    * [<font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience](#sysadminxp)
+    * [<font-awesome-icon icon="code-branch"/> Programming / Scripting languages and technologies](#toolbox)
+* [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
+* [<font-awesome-icon icon="users"/> Contact](#contact)
 
 <br />
 
-## <font-awesome-icon icon="language"/> Spoken Languages
+## <a name="languages"></a><font-awesome-icon icon="language"/> Spoken Languages
 *Traveling and getting to know new cultures is an activity I value a lot.*
 *So far __I lived more than ten years abroad__ (Poland since 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
 
@@ -24,7 +30,7 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 
 <br />
 
-## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects
+## <a name="projects"></a><font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects
 *Stay tuned, more will follow*
 * [My portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star My portfolio on GitHub"></iframe> - The page you are currently browsing is also one of my projects. It's based on [vuepress](https://vuepress.vuejs.org/), it's automatically deployed using [Travis CI](https://travis-ci.com/) and automatically notifies me regarding the build state through a selfmade telegram bot (I use the same deployment system and technologies for *Useful Tools*).
 * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Useful Tools on GitHub"></iframe> - *Useful tools* sorts the tools I gathered in the last years. They give me a solid base to start new projects.
@@ -32,7 +38,7 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 
 <br />
 
-## <font-awesome-icon icon="code"/> XP / Technical Skills
+## <a name="skills"></a><font-awesome-icon icon="code"/> XP / Technical Skills
 *You can find here a short summary of my work experience. Let’s talk about it. I’ll be really happy to give you more details and answer your questions.*
 
 *As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
@@ -44,7 +50,7 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 
 <br />
 
-### <font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience
+### <a name="sysadminxp"></a><font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience
 During my apprenticeship I was the only Sysadmin in the company, setting up maintaining and securing servers and services but also managing users.
 
 Amongst other tools and services, I deployed Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) for the communication between the company and external contributors (a few hundred users in total), different mail servers (courier IMAP → Dovecot) and Webhosting Services (Confixx → Plesk migration, Apache / Nginx), ... I automated tasks using Bash and several CLI tools (IMAPsync, mjml.io ...).
@@ -72,7 +78,7 @@ I've been the administrator of a gîte in Alsace (France) for more then 10 years
 
 <br />
 
-### <font-awesome-icon icon="code-branch"/> Programming / Scripting languages and technologies
+### <a name="toolbox"></a><font-awesome-icon icon="code-branch"/> Programming / Scripting languages and technologies
 ::: tip  <font-awesome-icon :icon="['fas', 'tools']"/> My current tools:
 - [Visual Studio Code](https://code.visualstudio.com/) (with a lot of plugins)
 - [Oh My Zsh](https://ohmyz.sh/) - My favorite shell
@@ -117,14 +123,14 @@ I've been the administrator of a gîte in Alsace (France) for more then 10 years
 
 <br />
 
-## <font-awesome-icon icon="user-astronaut"/> Hobbies
+## <a name="hobbies"></a><font-awesome-icon icon="user-astronaut"/> Hobbies
 I enjoy practising sports (skiing, golf and downhill mountainbiking :bike:), reading thrillers :books: and listening to music.
 Both reading and sports give me the focus needed to maintain a good work/life balance required when working in IT.
 Globally speaking I'm always keen to learn and on finding out how to further improve my skills and workflows be it when doing my hobbies or working.
 
 <br />
 
-## <font-awesome-icon icon="users"/> Contact / Social Media
+## <a name="contact"></a><font-awesome-icon icon="users"/> Contact
 - [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
 - [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
 - [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)

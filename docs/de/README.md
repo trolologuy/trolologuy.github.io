@@ -9,13 +9,19 @@ footer: 'Diese Seite wurde mit vuepress erstellt und wird auf github gehostet.'
 
 Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coordinator__ in Polen :poland: für ein internationales IT-Unternehmen (OVHcloud).
 
-[[toc]]
+* [<font-awesome-icon icon="language"/> Sprachen](#languages)
+* [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte](#public-projects)
+* [<font-awesome-icon icon="code"/> XP / Kenntnisse](#skills)
+    * [<font-awesome-icon icon="server"/> Kurze Zusammenfassung meiner SysAdmin-Erfahrung](#sysadminxp)
+    * [<font-awesome-icon icon="code-branch"/> Programmier-/Skriptsprachen und Technologien](#toolbox)
+* [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
+* [<font-awesome-icon icon="users"/> Kontakt](#contact)
 
 <br />
 
-## <font-awesome-icon icon="language"/> Sprachen
+## <a name="languages"></a><font-awesome-icon icon="language"/> Sprachen
 *Reisen und sich mit neuen Kulturen auseinandersetzen ist eine Herausforderung, die ich sehr schätze.* 
-*__Bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__ (davon 7 Monate in Polen, 11 Jahre in Deutschland und Frankreich für die übrigen Jahren). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen um diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.*
+*__Bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__ (davon 7 Monate in Polen, 11 Jahre in Deutschland und in Frankreich bin ich aufgewachsen). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen um diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.*
 
 - :fr: Franzözisch (Muttersprache)
 - :de: Deutsch (C2)
@@ -24,7 +30,7 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 
 <br />
 
-## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte
+## <a name="projects"></a><font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte
 *Es werden immer mehr !*
 
 * [Mein Portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Mein Portfolio auf GitHub"><</iframe> - Die Seite, die Sie gerade sehen, ist ebenfalls eines meiner Projekte. Sie basiert auf [vuepress](https://vuepress.vuejs.org/), wird automatisch mit [Travis CI](https://travis-ci.com/) deployed und schickt mir durch einen selbstgebauten Telegramm-Bot automatisch Nachrichten über den Build-Status (ich benutze das gleiche Deployment-System und die gleichen Technologien für *Useful Tools*).
@@ -33,7 +39,7 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 
 <br />
 
-## <font-awesome-icon icon="code"/> XP / Kenntnisse
+## <a name="skills"></a><font-awesome-icon icon="code"/> XP / Kenntnisse
 *Sie finden hier eine kurze Zusammenfassung meiner Arbeitserfahrung. Lassen Sie uns auch gerne persönnlich darüber sprechen. Ich gebe Ihnen gerne mehr Details und beantworte jegliche Fragen*
 
 *Ich habe ein Studium als Entwickler begonnen, bis ich herausfand, dass Systemadministration / DevOps / SRE und Projektmanagement-bezogene Themen besser zu mir passen.*
@@ -45,7 +51,7 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 
 <br />
 
-### <font-awesome-icon icon="server"/> Kurze Zusammenfassung meiner SysAdmin-Erfahrung
+### <a name="sysadminxp"></a><font-awesome-icon icon="server"/> Kurze Zusammenfassung meiner SysAdmin-Erfahrung
 Während meiner Ausbildung war ich der einzige Sysadmin in der Firma. Meine Aufgabe war, unter anderen, Server und Dienste einzurichten sowie die Verwaltung von Benutzern.
 
 Unter andere Tools und Dienste habe ich Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) zur interne Kommunikation zwischen der Firma und externen Mitarbeitern aufegesetzt (einige hundert Benutzer insgesamt), sowie auch verschiedene Mailserver (Courrier IMAP -> Dovecot) und Webhosting Dienste (Confixx -> Plesk migration, Apache / Nginx), ... Ich automatisierte Tasks mit Bash und verschiedenen CLI-Tools (IMAPsync, mjml.io, ...).
@@ -74,7 +80,7 @@ Zu meinen Aufgaben gehört:
 
 <br />
 
-### <font-awesome-icon icon="code-branch"/> Programmier-/Skriptsprachen und Technologien
+### <a name="toolbox"></a><font-awesome-icon icon="code-branch"/> Programmier-/Skriptsprachen und Technologien
 
 ::: tip <font-awesome-icon :icon="['fas', 'tools']"/> Tools, die ich derzeit benutze:
 - [Visual Studio Code](https://code.visualstudio.com/) (mit ganz viele plugins)
@@ -120,14 +126,14 @@ Zu meinen Aufgaben gehört:
 
 <br />
 
-## <font-awesome-icon icon="user-astronaut"/> Hobbies
+## <a name="hobbies"></a><font-awesome-icon icon="user-astronaut"/> Hobbies
 Meine Interessen sind Sport (Ski, golf und Downhill-Mountainbike :bike:), das Lesen von Thrillern :books: und Musik hören.
 Sowohl das Lesen als auch Sport geben mir die nötige Ausgewogenheit, um eine gute Work-Life-Balance aufrechtzuerhalten, der bei einer IT-gebundene Tätigkeit erforderlich ist.
 Ich bin immer daran interessiert, herauszufinden, wie ich meine Fähigkeiten und Arbeitsabläufe weiter verbessern kann sei es für meine Hobbies oder für der arbeit.
 
 <br />
 
-## <font-awesome-icon icon="users"/> Kontakt
+## <a name="contact"></a><font-awesome-icon icon="users"/> Kontakt
 - [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
 - [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
 - [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)

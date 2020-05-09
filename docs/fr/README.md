@@ -9,11 +9,17 @@ footer: 'Cette page a été réalisée avec vuepress et est hébergée sur githu
 
 Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: comme __Operations Coordinator__ dans le domaine de l'informatique pour une société internationale (OVHcloud). 
 
-[[toc]]
+* [<font-awesome-icon icon="language"/> Langues](#languages)
+* [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets](#projects)
+* [<font-awesome-icon icon="code"/> XP / Compétences](#skills)
+    * [<font-awesome-icon icon="server"/> Bref résumé de mon expérience SysAdmin](#sysadminxp)
+    * [<font-awesome-icon icon="code-branch"/> Langages et technologies de programmation / scripting](#toolbox)
+* [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
+* [<font-awesome-icon icon="users"/> Contact](#contact)
 
 <br />
 
-## <font-awesome-icon icon="language"/> Langues
+## <a name="languages"></a><font-awesome-icon icon="language"/> Langues
 *Voyager et découvrir de nouvelles cultures est une activité que j'apprécie beaucoup.*
 *Jusqu'à présent __ j'ai vécu plus de dix ans à l'étranger__ (la Pologne depuis 7 mois, l'Allemagne pendant 11 ans et la France pour le reste). S'installer dans un nouveau pays requiert une certaine capacité d'adaptation et beaucoup de flexibilité. Ces dernières sont devenues une seconde nature pour moi. Passer du temps à l'étranger m'a permis de devenir plus ouvert d'esprit et d'améliorer ma capacité d'adaptation. Dans les années à venir, j'aimerais m'installer au Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, en Nouvelle-Zélande ou en Australie*
 
@@ -24,7 +30,7 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 
 <br />
 
-## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets
+## <a name="projects"></a><font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets
 *Au jour d'aujourd'hui, peu de mes projets sont publics, celà va évoluer dans les prochains mois*
 
 * [Mon portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star My portfolio on GitHub"></iframe> - La page que vous consultez actuellement est également un de mes projets. Elle est basée sur [vuepress](https://vuepress.vuejs.org/) et est automatiquement déployée en utilisant [Travis CI](https://travis-ci.com/) qui me notifie automatiquement de l'état du déploiement par un bot telegram que j'ai réalisé (j'utilise le même système de déploiement et les mêmes technologies pour *Useful Tools*)
@@ -32,7 +38,7 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - Une collection de tous les outils que j'utilise pour configurer macOS <font-awesome-icon :icon="['fab', 'apple']" /> en fonction de mes besoins.
 
 
-## <font-awesome-icon icon="code"/> XP / Compétences
+## <a name="skills"></a><font-awesome-icon icon="code"/> XP / Compétences
 *Vous trouverez ici un bref résumé de mon expérience professionnelle. Je serai très heureux d'échanger avec vous si des questions devaient subsister*
 
 *J'ai commencé des études en tant que développeur jusqu'à ce que je me rende compte que tout ce qui est lié à l'administration des systèmes / DevOps / SRE et à la gestion de projet me convenaient mieux.*
@@ -44,7 +50,7 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 
 <br />
 
-### <font-awesome-icon icon="server"/> Bref résumé de mon expérience SysAdmin
+### <a name="sysadminxp"></a><font-awesome-icon icon="server"/> Bref résumé de mon expérience SysAdmin
 Au debut de mon apprentissage, j'étais le seul Sysadmin de l'entreprise, où j'étais responsable de la mise en place de serveurs et des services mais aussi de la gestion des utilisateurs.
 
 Parmi d'autres outils, j'ai déployé le projet open-source Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) pour la communication entre l'entreprise et des partenaires externes (quelques centaines d'utilisateurs au total), différents serveurs mails (messagerie IMAP -> Dovecot) et d'hébergement (migration de Confixx -> Plesk, Apache / Nginx), ...
@@ -75,7 +81,7 @@ Les tâches effectuées comprennent notamment:
 
 <br />
 
-### <font-awesome-icon icon="code-branch"/> Langages et technologies de programmation / scripting
+### <a name="toolbox"></a><font-awesome-icon icon="code-branch"/> Langages et technologies de programmation / scripting
 ::: tip <font-awesome-icon :icon="['fas', 'tools']"/> Outils que j'utilise actuellement:
 - [Visual Studio Code](https://code.visualstudio.com/) (avec une flopée de plugins)
 - [Oh My Zsh](https://ohmyz.sh/) - Mon shell de prédilection
@@ -121,12 +127,12 @@ Les tâches effectuées comprennent notamment:
 
 <br />
 
-## <font-awesome-icon icon="user-astronaut"/> Hobbies
+## <a name="hobbies"></a><font-awesome-icon icon="user-astronaut"/> Hobbies
 Mes centres d'intérêt sont le sport: le ski, le golf et le VTT de descente :bike:, lire des thrillers :books: et écouter de la musique.
 La lecture et le sport me donnent la concentration nécessaire pour maintenir un bon équilibre entre vie professionnelle et vie privée, ce qui est indispensable pour travailler dans le domaine des technologies de l'information.
 D'une manière générale, j'ai toujours envie d'apprendre et de découvrir comment continuer à améliorer mes compétences et mes méthodes de travail, que ce soit pour mes loisirs ou dans mon travail.
 
-## <font-awesome-icon icon="users"/> Contact
+## <a name="contact"></a><font-awesome-icon icon="users"/> Contact
 - [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
 - [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
 - [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)

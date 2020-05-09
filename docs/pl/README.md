@@ -13,11 +13,17 @@ Ta strona została przetłumaczona z użyciem automatycznego tłumacza, poniewa�
 
 Jestem Aloys, 26 lat. Obecnie pracuję jako __Koordynator Operacyjny__ w Polsce :poland: dla międzynarodowej firmy IT (OVHcloud).
 
-[[toc]]
+* [<font-awesome-icon icon="language"/> Języki mówione](#languages)
+* [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekty](#projects)
+* [<font-awesome-icon icon="code"/> XP / Umiejętności techniczne](#skills)
+    * [<font-awesome-icon icon="server"/> Krótkie podsumowanie mojego doświadczenia SysAdmin](#sysadminxp)
+    * [<font-awesome-icon icon="code-branch"/> Programowanie / Języki i technologie skryptowe](#toolbox)
+* [<font-awesome-icon icon="user-astronaut"/> Zainteresowania](#hobbies)
+* [<font-awesome-icon icon="users"/> Contact](#contact)
 
 <br />
 
-## <font-awesome-icon icon="language"/> Języki mówione
+## <a name="languages"></a><font-awesome-icon icon="language"/> Języki mówione
 *Podróżowanie i poznawanie nowych kultur jest zajęciem, które bardzo cenię.*
 *Do tej pory __Żyłem ponad dziesięć lat za granicą__ (Polska przez 7 miesięcy, Niemcy przez 11 lat, a Francja przez resztę). Przeprowadzka do nowego kraju oraz wymagane zdolności adaptacyjne i elastyczność stały się dla mnie drugą naturą. Spędzenie czasu za granicą pozwoliło mi stać się bardziej otwartym i zdolnym do adaptacji. W najbliższych latach chciałbym przenieść się do Kanady <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />. Nową Zelandię lub Australię, aby jeszcze bardziej /poprawić te umiejętności i rzucić sobie wyzwanie.*
 
@@ -28,7 +34,7 @@ Jestem Aloys, 26 lat. Obecnie pracuję jako __Koordynator Operacyjny__ w Polsce 
 
 <br />
 
-## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekty
+## <a name="projects"></a><font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekty
 *Trzymajcie się, więcej będzie po*
 
 * [Moje portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star My portfolio on GitHub"></iframe> - Strona, którą obecnie przeglądasz jest również jednym z moich projektów. Bazuje na [vuepress](https://vuepress.vuejs.org/), jest automatycznie wdrażany za pomocą [Travis CI](https://travis-ci.com/) i automatycznie powiadamia mnie o stanie budowy za pomocą samodzielnie stworzonego bota telegramowego (używam tego samego systemu wdrażania i technologii dla *Useful Tools*).
@@ -37,7 +43,7 @@ Jestem Aloys, 26 lat. Obecnie pracuję jako __Koordynator Operacyjny__ w Polsce 
 
 <br />
 
-## <font-awesome-icon icon="code"/> XP / Umiejętności techniczne
+## <a name="skills"></a><font-awesome-icon icon="code"/> XP / Umiejętności techniczne
 *Znajdziesz tu krótkie podsumowanie mojego doświadczenia zawodowego. Porozmawiajmy o tym. Naprawdę chętnie podam ci więcej szczegółów i odpowiem na twoje pytania.*
 
 *Zacząłem studia jako deweloper, dopóki nie dowiedziałem się, że tematy związane z administracją systemu / DevOps /SRE i zarządzaniem projektami lepiej mi odpowiadają.*
@@ -49,7 +55,7 @@ Jestem Aloys, 26 lat. Obecnie pracuję jako __Koordynator Operacyjny__ w Polsce 
 
 <br />
 
-### <font-awesome-icon icon="server"/>  Krótkie podsumowanie mojego doświadczenia SysAdmin
+### <a name="sysadminxp"></a><font-awesome-icon icon="server"/>  Krótkie podsumowanie mojego doświadczenia SysAdmin
 W czasie mojej praktyki byłem jedynym Sysadminem w firmie, zajmującym się utrzymaniem i zabezpieczaniem serwerów i usług, a także zarządzaniem użytkownikami.
 
 Wśród innych narzędzi i usług, wdrożyłem Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) do komunikacji pomiędzy firmą a zewnętrznymi współpracownikami (łącznie kilkaset użytkowników), różne serwery pocztowe (courier IMAP → Dovecot) oraz Webhosting Services (Confixx → migracja Pleska, Apache / Nginx), ... Zautomatyzowałem zadania za pomocą programu Bash i kilku narzędzi CLI (IMAPsync, mjml.io ...).
@@ -77,7 +83,7 @@ Jestem administratorem gîte w Alzacji (Francja) od ponad 10 lat, z zadaniami w�
 
 <br />
 
-### <font-awesome-icon icon="code-branch"/> Programowanie / Języki i technologie skryptowe
+### <a name="toolbox"></a><font-awesome-icon icon="code-branch"/> Programowanie / Języki i technologie skryptowe
 ::: tip <font-awesome-icon :icon="['fas', 'tools']"/> Narzędzia, których obecnie używam:
 - [Visual Studio Code](https://code.visualstudio.com/) (z dużą ilością wtyczek)
 - [Oh My Zsh](https://ohmyz.sh/) - Moja ulubiona muszla
@@ -122,14 +128,14 @@ Jestem administratorem gîte w Alzacji (Francja) od ponad 10 lat, z zadaniami w�
 
 <br />
 
-## <font-awesome-icon icon="user-astronaut"/> Zainteresowania
+## <a name="hobbies"></a><font-awesome-icon icon="user-astronaut"/> Zainteresowania
 Lubię uprawiać sport (jazda na nartach, golf i kolarstwo górskie zjazdowe :rower:), czytać thrillery :książki: i słuchać muzyki.
 Zarówno czytanie, jak i uprawianie sportu dają mi możliwość skupienia się na zachowaniu dobrej równowagi między życiem zawodowym a prywatnym, wymaganej podczas pracy w IT.
 Ogólnie rzecz biorąc, zawsze chętnie się uczę i dowiaduję się, jak dalej doskonalić swoje umiejętności i przepływy pracy, czy to podczas wykonywania swoich hobby, czy pracy.
 
 <br />
 
-## <font-awesome-icon icon="users"/> Contact
+## <a name="contact"></a><font-awesome-icon icon="users"/> Contact
 - [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
 - [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
 - [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)
