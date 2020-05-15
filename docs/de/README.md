@@ -1,6 +1,6 @@
 ---
 home: true
-description: ... auch wenn es aktuell eher ein verbessertes Lebenslauf ist
+description: ... auch wenn es aktuell eher ein verbesserter Lebenslauf ist
 heroText: Willkommen auf mein Portfolio
 heroImage: me.png
 noGlobalSocialShare: true
@@ -17,29 +17,33 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 * [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
 * [<font-awesome-icon icon="users"/> Kontakt](#contact)
 
+<a name="languages"></a>
 <br />
 
-## <a name="languages"></a><font-awesome-icon icon="language"/> Sprachen
+## <font-awesome-icon icon="language"/> Sprachen
 *Reisen und sich mit neuen Kulturen auseinandersetzen ist eine Herausforderung, die ich sehr schätze.* 
-*__Bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__ (davon 7 Monate in Polen, 11 Jahre in Deutschland und in Frankreich bin ich aufgewachsen). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen um diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.*
+*__Bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__ (davon 7 Monate in Polen, 11 Jahre in Deutschland und in Frankreich bin ich aufgewachsen). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen. Dies würde mir dabei helfen diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.*
 
 - :fr: Franzözisch (Muttersprache)
 - :de: Deutsch (C2)
 - :uk: Englisch (C1)
 - :poland: Polnisch (Anfänger)
 
+<a name="projects"></a>
 <br />
 
-## <a name="projects"></a><font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte
+## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte
 *Es werden immer mehr !*
 
-* [Mein Portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Mein Portfolio auf GitHub"><</iframe> - Die Seite, die Sie gerade sehen, ist ebenfalls eines meiner Projekte. Sie basiert auf [vuepress](https://vuepress.vuejs.org/), wird automatisch mit [Travis CI](https://travis-ci.com/) deployed und schickt mir durch einen selbstgebauten Telegramm-Bot automatisch Nachrichten über den Build-Status (ich benutze das gleiche Deployment-System und die gleichen Technologien für *Useful Tools*).
+* [Mein Portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star Mein Portfolio auf GitHub"><</iframe> - Die Seite, die Sie gerade sehen, ist ebenfalls eines meiner Projekte. Sie basiert auf [vuepress](https://vuepress.vuejs.org/) <font-awesome-icon :icon="['fab', 'vuejs']" />, wird automatisch mit [Travis CI](https://travis-ci.com/) deployed und schickt mir durch einen selbstgebauten Telegramm-Bot <font-awesome-icon :icon="['fab', 'telegram']" /> automatisch Nachrichten über den Build-Status (ich benutze das gleiche Deployment-System und die gleichen Technologien für *Useful Tools*).
 * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - *Useful Tools* ist eine Auflistung der Tools, die ich in den letzten Jahren gesammelt habe. Diese geben mir eine solide Grundlage für neue Projekte.
 * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - Eine Sammlung von alle tools und Skripte die ich benutze, um macOS <font-awesome-icon :icon="['fab', 'apple']" /> nach meinen Bedürfnissen einzurichten.
+* [Update Notifier](https://github.com/trolologuy/update-notifier) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=update-notifier&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star update-notifier on GitHub"><</iframe> - Ein Dienstprogramm, das prüft, ob Updates für ausgewählte Software verfügbar sind. Mit Python3 <font-awesome-icon :icon="['fab', 'python']" /> erstellt. Kann über Vagrant und Docker <font-awesome-icon :icon="['fab', 'docker']" /> deployed werden. Sendet Benachrichtigungen per Telegram <font-awesome-icon :icon="['fab', 'telegram']" />.
 
+<a name="skills"></a>
 <br />
 
-## <a name="skills"></a><font-awesome-icon icon="code"/> XP / Kenntnisse
+## <font-awesome-icon icon="code"/> XP / Kenntnisse
 *Sie finden hier eine kurze Zusammenfassung meiner Arbeitserfahrung. Lassen Sie uns auch gerne persönnlich darüber sprechen. Ich gebe Ihnen gerne mehr Details und beantworte jegliche Fragen*
 
 *Ich habe ein Studium als Entwickler begonnen, bis ich herausfand, dass Systemadministration / DevOps / SRE und Projektmanagement-bezogene Themen besser zu mir passen.*
@@ -49,9 +53,10 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 - :de: 2016 - 2018: Deutsche Ausbildung zum "__Fachinformatiker - Systemintegration__".
 - :fr: 2012 - 2014: Informatikstudium in Epitech Straßburg (Frankreich) + 6 Monate Praktikum
 
+<a name="sysadminxp"></a>
 <br />
 
-### <a name="sysadminxp"></a><font-awesome-icon icon="server"/> Kurze Zusammenfassung meiner SysAdmin-Erfahrung
+### <font-awesome-icon icon="server"/> Kurze Zusammenfassung meiner SysAdmin-Erfahrung
 Während meiner Ausbildung war ich der einzige Sysadmin in der Firma. Meine Aufgabe war, unter anderen, Server und Dienste einzurichten sowie die Verwaltung von Benutzern.
 
 Unter andere Tools und Dienste habe ich Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) zur interne Kommunikation zwischen der Firma und externen Mitarbeitern aufegesetzt (einige hundert Benutzer insgesamt), sowie auch verschiedene Mailserver (Courrier IMAP -> Dovecot) und Webhosting Dienste (Confixx -> Plesk migration, Apache / Nginx), ... Ich automatisierte Tasks mit Bash und verschiedenen CLI-Tools (IMAPsync, mjml.io, ...).
@@ -63,9 +68,11 @@ Mein Abschlussprojekt der Ausbildung war die Einrichtung eines geclusterten ELK-
 
 *Laut [Pluralsight IQ](https://stackoverflow.com/story/aloys):*
 
-<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
-<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/nCM00.png" href="https://stackoverflow.com/story/aloys" alt="linux administration" width="250"/></a>
-<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/5YB9e.png" href="https://stackoverflow.com/story/aloys" alt="python" width="250"/></a>
+<div style="padding: 20px; text-align: center;">
+    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
+    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/nCM00.png" href="https://stackoverflow.com/story/aloys" alt="linux administration" width="250"/></a>
+    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/5YB9e.png" href="https://stackoverflow.com/story/aloys" alt="python" width="250"/></a>
+</div>
 
 <br />
 
@@ -78,9 +85,10 @@ Zu meinen Aufgaben gehört:
 
 *Systemadministration oder Projektmanagement sind Richtungen, in denen ich meine Karriere fortsetzen möchte. Mit etwas Erfahrung in verschiedenen Bereichen kann ich einen guten Einblick und ein tieferes Verständnis der zugrunde liegenden Problematiken liefern, die bei der Verwaltung eines Projekts auftreten können. Sowie auch Schwierigkeiten in der Kommunikation zwischen Technikern und Management erkennen und beheben.*
 
+<a name="toolbox"></a>
 <br />
 
-### <a name="toolbox"></a><font-awesome-icon icon="code-branch"/> Programmier-/Skriptsprachen und Technologien
+### <font-awesome-icon icon="code-branch"/> Programmier-/Skriptsprachen und Technologien
 
 ::: tip <font-awesome-icon :icon="['fas', 'tools']"/> Tools, die ich derzeit benutze:
 - [Visual Studio Code](https://code.visualstudio.com/) (mit ganz viele plugins)
@@ -124,16 +132,18 @@ Zu meinen Aufgaben gehört:
 | __<font-awesome-icon :icon="['fab', 'java']" /> Java__ | 2 Jahr | ★☆☆☆☆ |
 :::
 
+<a name="hobbies"></a>
 <br />
 
-## <a name="hobbies"></a><font-awesome-icon icon="user-astronaut"/> Hobbies
+## <font-awesome-icon icon="user-astronaut"/> Hobbies
 Meine Interessen sind Sport (Ski, golf und Downhill-Mountainbike :bike:), das Lesen von Thrillern :books: und Musik hören.
 Sowohl das Lesen als auch Sport geben mir die nötige Ausgewogenheit, um eine gute Work-Life-Balance aufrechtzuerhalten, der bei einer IT-gebundene Tätigkeit erforderlich ist.
 Ich bin immer daran interessiert, herauszufinden, wie ich meine Fähigkeiten und Arbeitsabläufe weiter verbessern kann sei es für meine Hobbies oder für der arbeit.
 
+<a name="contact"></a>
 <br />
 
-## <a name="contact"></a><font-awesome-icon icon="users"/> Kontakt
+## <font-awesome-icon icon="users"/> Kontakt
 - [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
 - [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
 - [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)

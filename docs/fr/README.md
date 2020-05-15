@@ -17,9 +17,10 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 * [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
 * [<font-awesome-icon icon="users"/> Contact](#contact)
 
+<a name="languages"></a>
 <br />
 
-## <a name="languages"></a><font-awesome-icon icon="language"/> Langues
+## <font-awesome-icon icon="language"/> Langues
 *Voyager et découvrir de nouvelles cultures est une activité que j'apprécie beaucoup.*
 *Jusqu'à présent __ j'ai vécu plus de dix ans à l'étranger__ (la Pologne depuis 7 mois, l'Allemagne pendant 11 ans et la France pour le reste). S'installer dans un nouveau pays requiert une certaine capacité d'adaptation et beaucoup de flexibilité. Ces dernières sont devenues une seconde nature pour moi. Passer du temps à l'étranger m'a permis de devenir plus ouvert d'esprit et d'améliorer ma capacité d'adaptation. Dans les années à venir, j'aimerais m'installer au Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, en Nouvelle-Zélande ou en Australie*
 
@@ -28,17 +29,21 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 - :uk: Anglais (C1)
 - :poland: Polonais (Débutant)
 
+<a name="projects"></a>
 <br />
 
-## <a name="projects"></a><font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets
+## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets
 *Au jour d'aujourd'hui, peu de mes projets sont publics, celà va évoluer dans les prochains mois*
 
-* [Mon portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star My portfolio on GitHub"></iframe> - La page que vous consultez actuellement est également un de mes projets. Elle est basée sur [vuepress](https://vuepress.vuejs.org/) et est automatiquement déployée en utilisant [Travis CI](https://travis-ci.com/) qui me notifie automatiquement de l'état du déploiement par un bot telegram que j'ai réalisé (j'utilise le même système de déploiement et les mêmes technologies pour *Useful Tools*)
+* [Mon portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star My portfolio on GitHub"></iframe> - La page que vous consultez actuellement est également un de mes projets. Elle est basée sur [vuepress](https://vuepress.vuejs.org/) <font-awesome-icon :icon="['fab', 'vuejs']" /> et est automatiquement déployée en utilisant [Travis CI](https://travis-ci.com/) qui me notifie automatiquement de l'état du déploiement par un bot telegram <font-awesome-icon :icon="['fab', 'telegram']" /> que j'ai réalisé (j'utilise le même système de déploiement et les mêmes technologies pour *Useful Tools*)
 * [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> -Un listing des outils que je trouve utile et que j'ai rassemblés ces dernières années. Ils me permettent d'avoir une base solide pour mes projets.
 * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star twbs/bootstrap on GitHub"></iframe> - Une collection de tous les outils que j'utilise pour configurer macOS <font-awesome-icon :icon="['fab', 'apple']" /> en fonction de mes besoins.
+* [Update Notifier](https://github.com/trolologuy/update-notifier) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=update-notifier&type=star&count=true&size=small" frameborder="0" scrolling="0" width="80" height="20" title="Star update-notifier on GitHub"></iframe> - Un utilitaire qui vérifie quand les mises à jour de certains logiciels sont disponibles. Réalisé avec Python3 <font-awesome-icon :icon="['fab', 'python']" />. Peut être déployé avec Vagrant et docker <font-awesome-icon :icon="['fab', 'docker']" />. Envoie des notifications par Telegram <font-awesome-icon :icon="['fab', 'telegram']" />.
 
+<a name="skills"></a>
+<br />
 
-## <a name="skills"></a><font-awesome-icon icon="code"/> XP / Compétences
+## <font-awesome-icon icon="code"/> XP / Compétences
 *Vous trouverez ici un bref résumé de mon expérience professionnelle. Je serai très heureux d'échanger avec vous si des questions devaient subsister*
 
 *J'ai commencé des études en tant que développeur jusqu'à ce que je me rende compte que tout ce qui est lié à l'administration des systèmes / DevOps / SRE et à la gestion de projet me convenaient mieux.*
@@ -48,9 +53,10 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 - :de: 2016 - 2018: Apprentissage en Allemagne en tant qu'"__Expert en informatique - Spécialisation intégration des systèmes__".
 - :fr: 2012 - 2014: Etudes d'informatique à Epitech Strasbourg (France) + six mois de stage
 
+<a name="sysadminxp"></a>
 <br />
 
-### <a name="sysadminxp"></a><font-awesome-icon icon="server"/> Bref résumé de mon expérience SysAdmin
+### <font-awesome-icon icon="server"/> Bref résumé de mon expérience SysAdmin
 Au debut de mon apprentissage, j'étais le seul Sysadmin de l'entreprise, où j'étais responsable de la mise en place de serveurs et des services mais aussi de la gestion des utilisateurs.
 
 Parmi d'autres outils, j'ai déployé le projet open-source Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) pour la communication entre l'entreprise et des partenaires externes (quelques centaines d'utilisateurs au total), différents serveurs mails (messagerie IMAP -> Dovecot) et d'hébergement (migration de Confixx -> Plesk, Apache / Nginx), ...
@@ -63,9 +69,11 @@ Mon projet de fin d'apprentissage était la mise en place d'un cluster ELK-Stack
 
 *Selon [Pluralsight IQ](https://stackoverflow.com/story/aloys):*
 
-<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
-<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/nCM00.png" href="https://stackoverflow.com/story/aloys" alt="linux administration" width="250"/></a>
-<a href="https://stackoverflow.com/story/aloys"><img src="https://i.stack.imgur.com/5YB9e.png" href="https://stackoverflow.com/story/aloys" alt="python" width="250"/></a>
+<div style="padding: 20px; text-align: center;">
+    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
+    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/nCM00.png" href="https://stackoverflow.com/story/aloys" alt="linux administration" width="250"/></a>
+    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/5YB9e.png" href="https://stackoverflow.com/story/aloys" alt="python" width="250"/></a>
+</div>
 
 <br />
 
@@ -79,9 +87,10 @@ Les tâches effectuées comprennent notamment:
 *L'administration de systèmes ou la gestion de projets sont des directions dans lesquelles j'aimerais poursuivre ma carrière. D'avoir une certaine expérience dans différents domaines me permet d'avoir un bon aperçu et une compréhension plus approfondie des problèmes sous-jacents qui peuvent être rencontrés lors de la gestion d'un projet.*
 *Celà me permet notamment de repérer les difficultés de communication qui peuvent apparaître entre les techniciens et la direction et de les résoudre à temps.*
 
+<a name="toolbox"></a>
 <br />
 
-### <a name="toolbox"></a><font-awesome-icon icon="code-branch"/> Langages et technologies de programmation / scripting
+### <font-awesome-icon icon="code-branch"/> Langages et technologies de programmation / scripting
 ::: tip <font-awesome-icon :icon="['fas', 'tools']"/> Outils que j'utilise actuellement:
 - [Visual Studio Code](https://code.visualstudio.com/) (avec une flopée de plugins)
 - [Oh My Zsh](https://ohmyz.sh/) - Mon shell de prédilection
@@ -125,14 +134,18 @@ Les tâches effectuées comprennent notamment:
 | __<font-awesome-icon :icon="['fab', 'java']" /> Java__ | 2 ans | ★☆☆☆☆ |
 :::
 
+<a name="hobbies"></a>
 <br />
 
-## <a name="hobbies"></a><font-awesome-icon icon="user-astronaut"/> Hobbies
+## <font-awesome-icon icon="user-astronaut"/> Hobbies
 Mes centres d'intérêt sont le sport: le ski, le golf et le VTT de descente :bike:, lire des thrillers :books: et écouter de la musique.
 La lecture et le sport me donnent la concentration nécessaire pour maintenir un bon équilibre entre vie professionnelle et vie privée, ce qui est indispensable pour travailler dans le domaine des technologies de l'information.
 D'une manière générale, j'ai toujours envie d'apprendre et de découvrir comment continuer à améliorer mes compétences et mes méthodes de travail, que ce soit pour mes loisirs ou dans mon travail.
 
-## <a name="contact"></a><font-awesome-icon icon="users"/> Contact
+<a name="contact"></a>
+<br />
+
+## <font-awesome-icon icon="users"/> Contact
 - [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
 - [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
 - [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)

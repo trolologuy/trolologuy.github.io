@@ -1,9 +1,9 @@
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faLightbulb, faTools, faLanguage, faGlobeEurope, faCode, faUsers, faTerminal, faServer, faUserAstronaut, faCodeBranch } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faFontAwesome, faGithub, faApple, faJira, faConfluence, faTrello, faWindows, faLinux, faJs, faNode, faJava, faStackOverflow, faLinkedin, faRocketchat, faPython, faDocker, faCanadianMapleLeaf  } from '@fortawesome/free-brands-svg-icons'
+import { faFontAwesome, faGithub, faApple, faJira, faConfluence, faTrello, faWindows, faLinux, faJs, faNode, faJava, faStackOverflow, faLinkedin, faRocketchat, faPython, faDocker, faCanadianMapleLeaf, faTelegram, faVuejs  } from '@fortawesome/free-brands-svg-icons'
 
-library.add(faLightbulb, faTools, faLanguage, faGlobeEurope, faCode, faUsers, faTerminal, faServer, faUserAstronaut, faCodeBranch, faFontAwesome, faGithub, faApple, faJira, faConfluence, faTrello, faWindows, faLinux, faCanadianMapleLeaf, faPython, faDocker, faJs, faNode, faJava, faStackOverflow, faLinkedin, faRocketchat)
+library.add(faLightbulb, faTools, faLanguage, faGlobeEurope, faCode, faUsers, faTerminal, faServer, faUserAstronaut, faCodeBranch, faFontAwesome, faGithub, faApple, faJira, faConfluence, faTrello, faWindows, faLinux, faCanadianMapleLeaf, faPython, faDocker, faJs, faNode, faJava, faStackOverflow, faLinkedin, faRocketchat, faTelegram, faVuejs)
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
