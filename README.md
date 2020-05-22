@@ -6,7 +6,7 @@ The build is automated through Travis CI, the current status is:  [![Build Statu
 
 Notifications regarding the build state are sent through a Telegram bot integration, [all the details can be found in this gist](https://gist.github.com/trolologuy/c290ac3edc46fe6bc2b69ccc497cd4bcq).
 
-You can access the portfolio [by clicking here](https://trolologuy.github.io/)
+You can access the portfolio, [click here](https://trolologuy.github.io/)
 
 To access the roadmap, [click here](https://github.com/trolologuy/trolologuy.github.io/projects/1)
 
