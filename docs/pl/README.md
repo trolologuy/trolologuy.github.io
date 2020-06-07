@@ -46,7 +46,7 @@ Jestem Aloys, 26 lat. Obecnie pracuję jako __Koordynator Operacyjny__ w Polsce 
 
 <a href="https://github.com/trolologuy">
     <div style="padding: 20px; text-align: center;">
-        <img src="http://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 Github chart" />
+        <img src="https://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 Github chart" />
         <p><i>Przegląd wykresu wkładu mojego GitHuba</i></p>
     </div>
 </a>

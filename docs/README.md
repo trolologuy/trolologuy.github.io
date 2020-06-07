@@ -41,7 +41,7 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 
 <a href="https://github.com/trolologuy">
     <div style="padding: 20px; text-align: center;">
-        <img src="http://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 GitHub chart" />
+        <img src="https://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 GitHub chart" />
         <p><i>An overview of my GitHub contribution graph</i></p>
     </div>
 </a>

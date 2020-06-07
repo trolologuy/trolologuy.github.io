@@ -42,7 +42,7 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 
 <a href="https://github.com/trolologuy">
     <div style="padding: 20px; text-align: center;">
-        <img src="http://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 Github chart" />
+        <img src="https://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 Github chart" />
         <p><i>Un aperçu de mes contributions sur GitHub</i></p>
     </div>
 </a>
