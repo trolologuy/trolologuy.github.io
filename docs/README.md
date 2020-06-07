@@ -39,6 +39,13 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 * [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
 * [Update Notifier](https://github.com/trolologuy/update-notifier) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=update-notifier&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star update-notifier on GitHub"></iframe> - An utility that checks when updates for selected software is available. Built with Python3 <font-awesome-icon :icon="['fab', 'python']" />. Can be deployed through vagrant and docker <font-awesome-icon :icon="['fab', 'docker']" />. Sends notifications through Telegram <font-awesome-icon :icon="['fab', 'telegram']" /> .
 
+<a href="https://github.com/trolologuy">
+    <div style="padding: 20px; text-align: center;">
+        <img src="http://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 GitHub chart" />
+        <p><i>An overview of my GitHub contribution graph</i></p>
+    </div>
+</a>
+
 <a name="skills"></a>
 <br />
 

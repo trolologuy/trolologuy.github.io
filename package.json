@@ -14,6 +14,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/vue-fontawesome": "^0.1.9",
+    "github-calendar": "^2.2.1",
     "global": "^4.4.0"
   },
   "scripts": {
