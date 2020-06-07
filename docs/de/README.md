@@ -42,7 +42,7 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 
 <a href="https://github.com/trolologuy">
     <div style="padding: 20px; text-align: center;">
-        <img src="http://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 Github chart" />
+        <img src="https://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 Github chart" />
         <p><i>Ein Überblick meiner GitHub-Beiträge</i></p>
     </div>
 </a>
