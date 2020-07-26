@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: 'Cette page a été réalisée avec vuepress et est hébergée sur github.'
 ---
 
-Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: comme __Operations Coordinator__ dans le domaine de l'informatique pour une société internationale (OVHcloud). 
+Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: comme __Ingénieur Support Cloud__ dans le domaine de l'informatique pour une société internationale (Platform.sh). 
 
 * [<font-awesome-icon icon="language"/> Langues](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets](#projects)
@@ -55,8 +55,10 @@ Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: co
 
 *J'ai commencé des études en tant que développeur jusqu'à ce que je me rende compte que tout ce qui est lié à l'administration des systèmes / DevOps / SRE et à la gestion de projet me convenaient mieux.*
 
-- :poland: 2019 - poste actuel: Operations Coordinator en Pologne.
-- :de: 2018 - 2019: "Web Support agent" en Allemagne.
+
+- :earth_africa: 2020 - poste actuel : "__Ingénieur Support Cloud__" en Homeoffice.
+- :poland: 2019 - 2020: "__Operations Coordinator__" en Pologne.
+- :de: 2018 - 2019: "__Web Support agent__" en Allemagne.
 - :de: 2016 - 2018: Apprentissage en Allemagne en tant qu'"__Expert en informatique - Spécialisation intégration des systèmes__".
 - :fr: 2012 - 2014: Etudes d'informatique à Epitech Strasbourg (France) + six mois de stage
 

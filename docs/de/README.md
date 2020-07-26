@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: 'Diese Seite wurde mit vuepress erstellt und wird auf github gehostet.'
 ---
 
-Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coordinator__ in Polen :poland: für ein internationales IT-Unternehmen (OVHcloud).
+Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Cloud Support Engineer__ in Polen :poland: für ein internationales IT-Unternehmen (Platform.sh).
 
 * [<font-awesome-icon icon="language"/> Sprachen](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte](#public-projects)
@@ -55,7 +55,8 @@ Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Operations Coor
 
 *Ich habe ein Studium als Entwickler begonnen, bis ich herausfand, dass Systemadministration / DevOps / SRE und Projektmanagement-bezogene Themen besser zu mir passen.*
 
-- :poland: 2019 - Aktuelle Position: "__Operations Coordinator__" in Polen.
+- :earth_africa: 2020 - Aktuelle Position : "__Cloud Support Engineer__" im Homeoffice
+- :poland: 2019 - 2020 : "__Operations Coordinator__" in Polen.
 - :de: 2018 - 2019: "__Web-Support-Agent__" in Deutschland.
 - :de: 2016 - 2018: Deutsche Ausbildung zum "__Fachinformatiker - Systemintegration__".
 - :fr: 2012 - 2014: Informatikstudium in Epitech Straßburg (Frankreich) + 6 Monate Praktikum

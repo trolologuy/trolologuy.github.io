@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: made with vuepress, hosted on github
 ---
 
-I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ in Poland :poland: for an international IT company (OVHcloud, a big player in the Cloud universe).
+I'm Aloys 26 years old, I'm currently working as an __Cloud Support Engineer__ in Poland :poland: for an international IT company (Platform.sh).
 
 * [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
@@ -54,7 +54,8 @@ I'm Aloys 26 years old, I'm currently working as an __Operations Coordinator__ i
 
 *As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
 
-- :poland: 2019 - current position: "__Operations Coordinator__" in Poland.
+- :earth_africa: 2020 - current position : "__Cloud Support Engineer__" working from the Homeoffice
+- :poland: 2019 - 2020: "__Operations Coordinator__" in Poland.
 - :de: 2018 - 2019: "__Web Support agent__" in Germany.
 - :de: 2016 - 2018: German Apprenticeship as "__Computer Science Expert with focus on System Integration__".
 - :fr: 2012 - 2014: Computer science studies in Epitech Strasbourg + 6 month Internship
