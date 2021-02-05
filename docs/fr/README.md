@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: 'Cette page a été réalisée avec vuepress et est hébergée sur github.'
 ---
 
-Je me présente, Aloys: 26 ans. Je travaille actuellement en Pologne :poland: comme __Ingénieur Support Cloud__ dans le domaine de l'informatique pour une société internationale (Platform.sh). 
+Je me présente, Aloys: 27 ans. Je travaille actuellement en France :fr: comme __Ingénieur Support Cloud__ dans le domaine de l'informatique pour une société internationale ([Platform.sh](https://platform.sh)). 
 
 * [<font-awesome-icon icon="language"/> Langues](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets](#projects)

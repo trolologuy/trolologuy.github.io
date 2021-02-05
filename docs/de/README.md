@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: 'Diese Seite wurde mit vuepress erstellt und wird auf github gehostet.'
 ---
 
-Ich heisse Aloys und bin 26 Jahre alt. Ich arbeite derzeit als __Cloud Support Engineer__ in Polen :poland: für ein internationales IT-Unternehmen (Platform.sh).
+Ich heisse Aloys und bin 27 Jahre alt. Ich arbeite derzeit als __Cloud Support Engineer__ in Frankreich :fr: für ein internationales IT-Unternehmen ([Platform.sh](https://platform.sh)).
 
 * [<font-awesome-icon icon="language"/> Sprachen](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte](#public-projects)
