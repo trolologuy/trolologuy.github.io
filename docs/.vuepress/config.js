@@ -38,8 +38,8 @@ module.exports = {
   locales: {
     '/': {
       lang: '🇬🇧 - English', // this will be set as the lang attribute on <html>
-      title: 'Portfolio',
-      description: 'My portfolio'
+      title: MMO,
+      description: 
     },
     '/de/': {
       lang: '🇩🇪 - Deutsch',
