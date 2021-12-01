@@ -59,7 +59,7 @@ Jestem Aloys, 28 lat. Obecnie pracuję jako __Technical Writer__ w Francji :fr: 
 
 *Zacząłem studia jako deweloper, dopóki nie dowiedziałem się, że tematy związane z administracją systemu / DevOps /SRE i zarządzaniem projektami lepiej mi odpowiadają.*
 
-- :earth_africa: 2020 - aktualna pozycja : "__Technical Writer__" pracujący w pełni zdalnie
+- :earth_africa: 2021 - aktualna pozycja : "__Technical Writer__" pracujący w pełni zdalnie
 - :earth_africa: 2020 - 2021 : "__Cloud Support Engineer__" pracujący w pełni zdalnie
 - :poland: 2019 - 2020 "__Koordynator Operacyjny__" w Polsce.
 - :de: 2018 - 2019: "__Web Support Agent__" w Niemczech.

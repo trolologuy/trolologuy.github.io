@@ -54,7 +54,7 @@ I'm Aloys 28 years old, I'm currently working as an __Technical Writer__ in Fran
 
 *As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
 
-- :earth_africa: 2020 - current position : "__Technical Writer__" working from the Homeoffice
+- :earth_africa: 2021 - current position : "__Technical Writer__" working from the Homeoffice
 - :earth_africa: 2020 - 2021 : "__Cloud Support Engineer__" working from the Homeoffice
 - :poland: 2019 - 2020: "__Operations Coordinator__" in Poland.
 - :de: 2018 - 2019: "__Web Support agent__" in Germany.
