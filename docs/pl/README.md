@@ -11,7 +11,7 @@ footer: 'Ta strona została wykonana przy użyciu wuepressa i jest umieszczona n
 Ta strona została przetłumaczona z użyciem automatycznego tłumacza, ponieważ jestem początkujący w języku polskim.
 :::
 
-Jestem Aloys, 27 lat. Obecnie pracuję jako __Cloud Support Engineer__ w Francji :fr: dla międzynarodowej firmy IT ([Platform.sh](https://platform.sh)).
+Jestem Aloys, 28 lat. Obecnie pracuję jako __Technical Writer__ w Francji :fr: dla międzynarodowej firmy IT ([Platform.sh](https://platform.sh)).
 
 * [<font-awesome-icon icon="language"/> Języki mówione](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekty](#projects)
@@ -31,7 +31,7 @@ Jestem Aloys, 27 lat. Obecnie pracuję jako __Cloud Support Engineer__ w Francji
 - :fr: Francuski (native speaker)
 - :de: Niemiecki (C2)
 - :uk: Angielski (C1)
-- :poland: Polski (Początkujący)
+- :poland: Polski (A1)
 
 <a name="projects"></a>
 <br />
@@ -59,7 +59,8 @@ Jestem Aloys, 27 lat. Obecnie pracuję jako __Cloud Support Engineer__ w Francji
 
 *Zacząłem studia jako deweloper, dopóki nie dowiedziałem się, że tematy związane z administracją systemu / DevOps /SRE i zarządzaniem projektami lepiej mi odpowiadają.*
 
-- :earth_africa: 2020 - aktualna pozycja : "__Cloud Support Engineer__" pracujący w pełni zdalnie
+- :earth_africa: 2020 - aktualna pozycja : "__Technical Writer__" pracujący w pełni zdalnie
+- :earth_africa: 2020 - 2021 : "__Cloud Support Engineer__" pracujący w pełni zdalnie
 - :poland: 2019 - 2020 "__Koordynator Operacyjny__" w Polsce.
 - :de: 2018 - 2019: "__Web Support Agent__" w Niemczech.
 - :de: 2016 - 2018: Niemiecka praktyka zawodowa jako "__Ekspert w dziedzinie informatyki z naciskiem na integrację systemów__".
