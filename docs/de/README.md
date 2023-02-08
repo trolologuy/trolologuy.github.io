@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: 'Diese Seite wurde mit vuepress erstellt und wird auf github gehostet.'
 ---
 
-Ich heisse Aloys und bin 28 Jahre alt. Ich arbeite derzeit als __Technical Writer__ in Frankreich :fr: für ein internationales IT-Unternehmen ([Platform.sh](https://platform.sh)).
+Ich heisse Aloys und bin 29 Jahre alt. Ich arbeite derzeit als __Elite Cloud Support Engineer__ in Frankreich :fr: für ein internationales IT-Unternehmen ([Platform.sh](https://platform.sh)).
 
 * [<font-awesome-icon icon="language"/> Sprachen](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekte](#public-projects)
@@ -55,7 +55,8 @@ Ich heisse Aloys und bin 28 Jahre alt. Ich arbeite derzeit als __Technical Write
 
 *Ich habe ein Studium als Entwickler begonnen, bis ich herausfand, dass Systemadministration / DevOps / SRE und Projektmanagement-bezogene Themen besser zu mir passen.*
 
-- :earth_africa: 2021 - Aktuelle Position : "__Technical Writer__" im Homeoffice
+- :earth_africa: 2023 - Aktuelle Position : "__Elite Cloud Support Engineer__" im Homeoffice
+- :earth_africa: 2021 - 2023 : "__Technical Writer__" im Homeoffice
 - :earth_africa: 2020 - 2021 : "__Cloud Support Engineer__" im Homeoffice
 - :poland: 2019 - 2020 : "__Operations Coordinator__" in Polen.
 - :de: 2018 - 2019: "__Web-Support-Agent__" in Deutschland.

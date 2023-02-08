@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: made with vuepress, hosted on github
 ---
 
-I'm Aloys 28 years old, I'm currently working as an __Technical Writer__ in France :fr: for an international IT company ([Platform.sh](https://platform.sh)).
+I'm Aloys 29 years old, I'm currently working as an __Elite Cloud Support Engineer__ in France :fr: for an international IT company ([Platform.sh](https://platform.sh)).
 
 * [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
@@ -54,7 +54,8 @@ I'm Aloys 28 years old, I'm currently working as an __Technical Writer__ in Fran
 
 *As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
 
-- :earth_africa: 2021 - current position : "__Technical Writer__" working from the Homeoffice
+- :earth_africa: 2023 - current position : "__Elite Cloud Support Engineer__" working from the Homeoffice
+- :earth_africa: 2021 - 2023 : "__Technical Writer__" working from the Homeoffice
 - :earth_africa: 2020 - 2021 : "__Cloud Support Engineer__" working from the Homeoffice
 - :poland: 2019 - 2020: "__Operations Coordinator__" in Poland.
 - :de: 2018 - 2019: "__Web Support agent__" in Germany.

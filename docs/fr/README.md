@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: 'Cette page a été réalisée avec vuepress et est hébergée sur github.'
 ---
 
-Je me présente, Aloys: 278 ans. Je travaille actuellement en France :fr: comme __Technical Writer__ dans le domaine de l'informatique pour une société internationale ([Platform.sh](https://platform.sh)). 
+Je me présente, Aloys: 29 ans. Je travaille actuellement en France :fr: comme __Elite Cloud Support Engineer__ dans le domaine de l'informatique pour une société internationale ([Platform.sh](https://platform.sh)). 
 
 * [<font-awesome-icon icon="language"/> Langues](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projets](#projects)
@@ -55,7 +55,8 @@ Je me présente, Aloys: 278 ans. Je travaille actuellement en France :fr: comme 
 
 *J'ai commencé des études en tant que développeur jusqu'à ce que je me rende compte que tout ce qui est lié à l'administration des systèmes / DevOps / SRE et à la gestion de projet me convenaient mieux.*
 
-- :earth_africa: 2021 - poste actuel : "__Technical Writer__" en Homeoffice.
+- :earth_africa: 2023 - poste actuel : "__Elite Cloud Support Engineer__" en Homeoffice.
+- :earth_africa: 2021 - 2023 : "__Technical Writer__" en Homeoffice.
 - :earth_africa: 2020 - 2021 : "__Ingénieur Support Cloud__" en Homeoffice.
 - :poland: 2019 - 2020: "__Operations Coordinator__" en Pologne.
 - :de: 2018 - 2019: "__Web Support agent__" en Allemagne.
