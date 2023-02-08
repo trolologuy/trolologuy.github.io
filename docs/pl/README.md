@@ -11,7 +11,7 @@ footer: 'Ta strona została wykonana przy użyciu wuepressa i jest umieszczona n
 Ta strona została przetłumaczona z użyciem automatycznego tłumacza, ponieważ jestem początkujący w języku polskim.
 :::
 
-Jestem Aloys, 29 lat. Obecnie pracuję jako __Elite Cloud Support Engineer__ w Francji :fr: dla międzynarodowej firmy IT ([Platform.sh](https://platform.sh)).
+Jestem Aloys, 29 lat. Obecnie pracuję jako __Elite Cloud Support Engineer__ w Francji :fr: dla międzynarodowej firmy [Platform.sh](https://platform.sh).
 
 * [<font-awesome-icon icon="language"/> Języki mówione](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Projekty](#projects)
