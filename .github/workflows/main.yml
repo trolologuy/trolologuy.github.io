@@ -23,9 +23,6 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: Borales/actions-yarn@v4.2.0
-      - uses: actions/upload-pages-artifact@v1
-      - uses: actions/checkout@v3
 
       - name: Set Node.js 16.x
         uses: actions/setup-node@v3
