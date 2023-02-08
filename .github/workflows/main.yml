@@ -29,12 +29,12 @@ jobs:
         with:
           node-version: 16.x
 
-      - name: Run install
+      - name: Install yarn
         uses: borales/actions-yarn@v4
         with:
           cmd: install # runs the `yarn install` command
 
-      - name: Test the app
+      - name: Build the docs
         uses: borales/actions-yarn@v4
         with:
           cmd: docs:build # runs the `yarn docs:build` command
@@ -45,6 +45,6 @@ jobs:
           # Artifact name
           name: github-pages # optional, default is github-pages
           # Path of the directory containing the static assets.
-          path: . # default is _site/
+          path: docs/.vuepress/dist # default is _site/
           # Duration after which artifact will expire in days.
           retention-days: 7 # optional, default is 1
