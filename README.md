@@ -2,11 +2,11 @@
 
 This portfolio was created using [vuepress](vuepress.vuejs.org/) with tweaks to the [succinct](https://github.com/Microflash/vuepress-theme-succinct) theme.
 
-The build is automated through Travis CI, the current status is:  [![Build Status](https://travis-ci.com/trolologuy/trolologuy.github.io.svg?branch=master)](https://travis-ci.com/trolologuy/trolologuy.github.io)
+The build is automated through [GitHub Pages](https://docs.github.com/en/pages/quickstart).
 
 Notifications regarding the build state are sent through a Telegram bot integration, [all the details can be found in this gist](https://gist.github.com/trolologuy/c290ac3edc46fe6bc2b69ccc497cd4bcq).
 
-You can access the portfolio, [click here](https://trolologuy.github.io/)
+To access the live version of the portfolio, [click here](https://trolologuy.github.io/)
 
 To access the roadmap, [click here](https://github.com/trolologuy/trolologuy.github.io/projects/1)
 
