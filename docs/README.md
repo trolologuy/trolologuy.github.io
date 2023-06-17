@@ -150,7 +150,7 @@ Globally speaking I'm always keen to learn and on finding out how to further imp
 <br />
 
 ## <font-awesome-icon icon="users"/> Contact
-- [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
+- [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/kubade220)
 - [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
-- [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)
-- Or you can contact me by sending an email to [this address](mailto:trolologuy.github@gmail.com).
+- [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/jakub-nabywaniec/)
+- Or you can contact me by sending an email to [this address](mailto:nabywaniecjakub@gmail.com).
