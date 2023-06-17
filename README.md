@@ -8,7 +8,7 @@ The build is automated through [GitHub Pages](https://docs.github.com/en/pages/q
 Notifications regarding the build state are sent through a Telegram bot integration, [all the details can be found in this gist](https://gist.github.com/kubade220/c290ac3edc46fe6bc2b69ccc497cd4bcq).
 Uptime monitoring happens with [uptime robot](https://uptimerobot.com). 
 
-To access the live version of the portfolio, [click here](https://trolologuy.github.io/)
+To access the live version of the portfolio, [click here](https://kubade220.github.io/)
 
 To access the roadmap, [click here](https://github.com/kubade220/kubade220.github.io/projects/1)
 
