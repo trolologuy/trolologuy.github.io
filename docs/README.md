@@ -57,12 +57,8 @@ I'm Jacob, I have 25 years old, I'm currently working as
 <br />
 
 ### <font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience
-During my apprenticeship I was the only Sysadmin in the company, setting up maintaining and securing servers and services but also managing users.
-
-Amongst other tools and services, I deployed Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) for the communication between the company and external contributors (a few hundred users in total), different mail servers (courier IMAP → Dovecot) and Webhosting Services (Confixx → Plesk migration, Apache / Nginx), ... I automated tasks using Bash and several CLI tools (IMAPsync, mjml.io ...).
-
-In the middle of my apprenticeship, I decided to change the company to join OVHcloud.
-My final project for the apprenticeship was setting up a clustered ELK-Stack (Elasticsearch, Kibana, Logstash) to monitor a fleet of machines and gain more insights about the performance of those machines.
+From the end of elementary school to the beginning of high school, I collected technical information about program files the possibilities of being a server administrator
+With a small budget, I managed to rent a vps on contabo.de, gather all the necessary files, run the programs and ban my friends, but first give them some money.
 
 <br />
 
@@ -76,11 +72,11 @@ My final project for the apprenticeship was setting up a clustered ELK-Stack (El
 
 <br />
 
-I've been the administrator of a gîte in Alsace (France) for more then 10 years, tasks included:
-- setting up the wifi: design the deployment, cable management, setting up the Access Points (Unifi), Setting up the Firewall (pfsense) and the VLANs, ... 
+for 4 years of high school and a little after graduation, I made it :
+- setting up the wifi: design the deployment, cable management, setting up the Access Points (mikrotik), Setting up the Firewall (pfsense) and the VLANs, ... 
 - managing the backup and data storage strategy on the NAS (Synology)
 - setting up the computers and managing them (<font-awesome-icon :icon="['fab', 'apple']" />, <font-awesome-icon :icon="['fab', 'windows']" />, <font-awesome-icon :icon="['fab', 'linux']" />) using tools such as JAMF, teamviewer, ...
-- creating, translating and maintaining the website (based on wordpress)
+- creating, translating and maintaining the website.
 
 *System Administration or Project Management are directions in which I would like to pursue my career. Having some experience in different fields allows me to have a good insight and a more in-depth understanding of underlying issues that can be faced when managing a project, or to spot difficulties in communication between techies and management and address them.*
 
