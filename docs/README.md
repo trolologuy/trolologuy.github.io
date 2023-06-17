@@ -49,13 +49,9 @@ I'm Jacob, I have 25 years old, I'm currently working as
 
 *I started to be interested in systems administration in primary school because together with my friends we wanted to develop a place to which we would always be happy to return, regardless of age, education, origin or gender.*
 
-- :earth_africa: 2023 - current position : "
-- :earth_africa: 2021 - 2023 : 
-- :earth_africa: 2020 - 2021 : 
-- :poland: 2019 - 2020: 
-- :de: 2018 - 2019:
-- :de: 2016 - 2018: 
-- :fr: 2012 - 2014: 
+- :earth_africa: 2021 - current : Blockchain, Microsoft Azure, AWS, Google cloud.
+- :earth_africa: 2019 - 2021 : Docker, kali linux, plesk, clouds.
+- :earth_africa: 2010 - 2019 : Gaming, fun with scripting.
 
 <a name="sysadminxp"></a>
 <br />
