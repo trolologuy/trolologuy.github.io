@@ -7,7 +7,7 @@ noGlobalSocialShare: true
 footer: made with vuepress, hosted on github
 ---
 
-I'm Aloys 25 years old, I'm currently working as 
+I'm Jacob, I have 25 years old, I'm currently working as 
 
 * [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
