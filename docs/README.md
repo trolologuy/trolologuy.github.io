@@ -54,13 +54,13 @@ I'm Aloys 25 years old, I'm currently working as
 
 *As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
 
-- :earth_africa: 2023 - current position : "__Elite Cloud Support Engineer__" working from the Homeoffice
-- :earth_africa: 2021 - 2023 : "__Technical Writer__" working from the Homeoffice
-- :earth_africa: 2020 - 2021 : "__Cloud Support Engineer__" working from the Homeoffice
-- :poland: 2019 - 2020: "__Operations Coordinator__" in Poland.
-- :de: 2018 - 2019: "__Web Support agent__" in Germany.
-- :de: 2016 - 2018: German Apprenticeship as "__Computer Science Expert with focus on System Integration__".
-- :fr: 2012 - 2014: Computer science studies in Epitech Strasbourg + 6 month Internship
+- :earth_africa: 2023 - current position : "
+- :earth_africa: 2021 - 2023 : 
+- :earth_africa: 2020 - 2021 : 
+- :poland: 2019 - 2020: 
+- :de: 2018 - 2019:
+- :de: 2016 - 2018: 
+- :fr: 2012 - 2014: 
 
 <a name="sysadminxp"></a>
 <br />
