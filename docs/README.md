@@ -47,7 +47,7 @@ I'm Jacob, I have 25 years old, I'm currently working as
 ## <font-awesome-icon icon="code"/> XP / Technical Skills
 *You can find here a short summary of my work experience. Let’s talk about it. I’ll be really happy to give you more details and answer your questions.*
 
-*As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
+*I started to be interested in systems administration in primary school because together with my friends we wanted to develop a place to which we would always be happy to return, regardless of age, education, origin or gender.*
 
 - :earth_africa: 2023 - current position : "
 - :earth_africa: 2021 - 2023 : 
