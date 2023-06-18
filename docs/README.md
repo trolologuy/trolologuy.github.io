@@ -11,6 +11,7 @@ I'm Jacob, I am 25 years old, and I am currently working as:
 
 * [<font-awesome-icon :icon="language"/> Spoken Languages](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
+* 
 * [<font-awesome-icon :icon="code"/> XP / Technical Skills](#skills)
 * [<font-awesome-icon :icon="server"/> Short summary of my SysAdmin Experience](#sysadminxp)
 * [<font-awesome-icon :icon="code-branch"/> Programming / Scripting languages and technologies](#toolbox)
