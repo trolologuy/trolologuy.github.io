@@ -1,37 +1,37 @@
 ---
-home: true,
-description: ... even if for now it's more of an improved CV
-heroText: Welcome to my portfolio
-heroImage: me.png
+home: true
+description: "... even if for now it's more of an improved CV"
+heroText: "Welcome to my portfolio"
+heroImage: "me.png"
 noGlobalSocialShare: true
-footer: made with vuepress, hosted on github
+footer: "made with vuepress, hosted on github"
 ---
 
-I'm Jacob, I have 25 years old, I'm currently working as 
+I'm Jacob, I am 25 years old, and I am currently working as:
 
-* [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
-* [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
-* [<font-awesome-icon icon="code"/> XP / Technical Skills](#skills)
-    * [<font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience](#sysadminxp)
-    * [<font-awesome-icon icon="code-branch"/> Programming / Scripting languages and technologies](#toolbox)
-* [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
-* [<font-awesome-icon icon="users"/> Contact](#contact)
+- [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
+- [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
+- [<font-awesome-icon icon="code"/> XP / Technical Skills](#skills)
+    - [<font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience](#sysadminxp)
+    - [<font-awesome-icon icon="code-branch"/> Programming / Scripting languages and technologies](#toolbox)
+- [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
+- [<font-awesome-icon icon="users"/> Contact](#contact)
 
 <a name="languages"></a>
 <br />
 
 ## <font-awesome-icon icon="language"/> Spoken Languages
 *Self-improvement.*
-*Everything I have learned so far and what I will have the opportunity to learn in the future I will use in the future in a large project<font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />
+*Everything I have learned so far and what I will have the opportunity to learn in the future, I will use in a large project* <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />
 
 <a name="projects"></a>
 <br />
 
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects
 *Stay tuned, more will follow*
-* [My portfolio](https://github.com/kubade220/kubade220.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=kubade220.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star My portfolio on GitHub"></iframe> - The page you are currently browsing is also one of my projects. It's based on [vuepress](https://vuepress.vuejs.org/) <font-awesome-icon :icon="['fab', 'vuejs']" />, it's automatically deployed using [Travis CI](https://travis-ci.com/) and automatically notifies me regarding the build state through a selfmade telegram <font-awesome-icon :icon="['fab', 'telegram']" /> bot (I use the same deployment system and technologies for *Useful Tools*).
-* [Useful Tools](https://kubade220.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Useful Tools on GitHub"></iframe> - *Useful tools*  sorts the tools I gathered in the last years. They give me a solid base to start new projects.
-* [Dotfiles, config and more](https://github.com/kubade220/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
+- [My portfolio](https://github.com/kubade220/kubade220.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=kubade220.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star My portfolio on GitHub"></iframe> - The page you are currently browsing is also one of my projects. It's based on [vuepress](https://vuepress.vuejs.org/) <font-awesome-icon :icon="['fab', 'vuejs']" />, and it's automatically deployed using [Travis CI](https://travis-ci.com/) and notifies me about the build state through a self-made Telegram <font-awesome-icon :icon="['fab', 'telegram']" /> bot (I use the same deployment system and technologies for *Useful Tools*).
+- [Useful Tools](https://kubade220.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Useful Tools on GitHub"></iframe> - *Useful tools* sorts the tools I gathered in the last years. They give me a solid base to start new projects.
+- [Dotfiles, config and more](https://github.com/kubade220/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to set up macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
 * [Update Notifier](https://github.com/kubade220/update-notifier) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=update-notifier&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star update-notifier on GitHub"></iframe> - An utility that checks when updates for selected software is available. Built with Python3 <font-awesome-icon :icon="['fab', 'python']" />. Can be deployed through vagrant and docker <font-awesome-icon :icon="['fab', 'docker']" />. Sends notifications through Telegram <font-awesome-icon :icon="['fab', 'telegram']" /> .
 
 <a href="https://github.com/kubade220">
