@@ -7,25 +7,16 @@ noGlobalSocialShare: true
 footer: "made with vuepress, hosted on github"
 ---
 
-I'm Jacob, I am 25 years old, and I am currently working as:
+I'm Jacob, I am 25 years old, and I am currently working 
+- [<font-awesome-icon : icon="language"/>Spoken Languages](#languages)]
+* [<font-awesome-icon : icon="['fas', 'lightbulb']"/>Public Projects](#projects)]
+* [<font-awesome-icon : icon="code"/>XP / Technical Skills](#skills)]
+* [<font-awesome-icon icon="server"/>Short summary of my SysAdmin Experience](#sysadminxp)]
+* [<font-awesome-icon : icon="code-branch"/>Programming / Scripting languages and technologies](#toolbox)]
+* [<font-awesome-icon : icon="user-astronaut"/>Hobbies](#hobbies)]
+* [<font-awesome-icon : icon="users" />Contact](#contact)]
 
 
-- [<font-awesome-icon : icon="language"/>Spoken Languages](#languages)
-* [<font-awesome-icon : icon="['fas', 'lightbulb']"/>Public Projects](#projects)
-* [<font-awesome-icon : icon="code"/>XP / Technical Skills](#skills)
-* [<font-awesome-icon icon="server"/>Short summary of my SysAdmin Experience](#sysadminxp)
-* [<font-awesome-icon : icon="code-branch"/>Programming / Scripting languages and technologies](#toolbox)
-* [<font-awesome-icon : icon="user-astronaut"/>Hobbies](#hobbies)
-* [<font-awesome-icon : icon="users" />Contact](#contact)
-
-- [<font-awesome-icon icon="language"/>Spoken Languages](#languages)
-* [<font-awesome-icon icon="['fas', 'lightbulb']"/>Public Projects](#projects)
-* [<font-awesome-icon : icon="code"/>XP / Technical Skills](#skills)
-* [<font-awesome-icon icon="server"/>Short summary of my SysAdmin Experience](#sysadminxp)
-* [<font-awesome-icon icon="code-branch"/>Programming / Scripting languages and technologies](#toolbox)
-* [<font-awesome-icon icon="user-astronaut"/>Hobbies](#hobbies)
-[* <font-awesome-icon icon="users" />Contact](#contact)
-* 
 <a name="languages"></a>
 <br />
 
@@ -56,7 +47,7 @@ I'm Jacob, I am 25 years old, and I am currently working as:
 ## <font-awesome-icon icon="code"/> XP / Technical Skills
 *You can find here a short summary of my work experience. Let’s talk about it. I’ll be really happy to give you more details and answer your questions.*
 
-*I started to be interested in systems administration in primary school because together with my friends we wanted to develop a place to which we would always be happy to return, regardless of age, education, origin or gender.*
+* I started to be interested in systems administration in primary school because together with my friends we wanted to develop a place to which we would always be happy to return, regardless of age, education, origin or gender.*
 
 - :earth_africa: 2021 - current : Blockchain, Microsoft Azure, AWS, Google cloud.
 - :earth_africa: 2019 - 2021 : Docker, kali linux, plesk, clouds.
@@ -108,7 +99,7 @@ for 4 years of high school and a little after graduation, I made it :
 
 *I chose to display an estimation of the real time i spent using the different technologies I encountered, because I think that the time spent working with a specific technology is probably a better metric than a progress bar (and it's more accurate). Next to it is how I would assess my skills*
 
-::: details See the details by clicking here
+ details See the details by clicking here
 | Technology        | Years of experience   | Self-assesment |
 | :------------- |:-------------:| :-------------:|
 | __git__     |  6 years | ★★★★☆  | 
@@ -133,7 +124,7 @@ for 4 years of high school and a little after graduation, I made it :
 | __<font-awesome-icon :icon="['fab', 'node']" /> node.js__ | 1 year  | ★☆☆☆☆ |
 | __MongoDB__ | 1 year  | ★☆☆☆☆ |
 | __<font-awesome-icon :icon="['fab', 'java']" /> Java__ | 2 years | ★☆☆☆☆ |
-:::
+
 
 <a name="hobbies"></a>
 <br />
