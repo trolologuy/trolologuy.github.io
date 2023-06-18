@@ -9,7 +9,7 @@ footer: "made with vuepress, hosted on github"
 
 I'm Jacob, I am 25 years old, and I am currently working 
 
- [<font-awesome-icon icon="language"/>Spoken Languages](#languages)
+* [<font-awesome-icon icon="language"/>Spoken Languages](#languages)
 * [<font-awesome-icon icon="['fas', 'lightbulb']"/>Public Projects](#projects)
 * [<font-awesome-icon icon="code"/>XP / Technical Skills](#skills)
 * [<font-awesome-icon icon="server"/>Short summary of my SysAdmin Experience](#sysadminxp)
