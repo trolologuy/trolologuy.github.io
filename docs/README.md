@@ -7,15 +7,7 @@ noGlobalSocialShare: true
 footer: "made with vuepress, hosted on github"
 ---
 
-I'm Jacob, I am 25 years old, and I am currently working 
-
-* [<font-awesome-icon icon="language"/>Spoken Languages](#languages)
-* [<font-awesome-icon icon="fas", "lightbulb"/>Public Projects](#projects)
-* [<font-awesome-icon icon="code"/>XP / Technical Skills](#skills)
-* [<font-awesome-icon icon="server"/>Short summary of my SysAdmin Experience](#sysadminxp)
-* [<font-awesome-icon icon="code-branch"/>Programming / Scripting languages and technologies](#toolbox)
-* [<font-awesome-icon icon="user-astronaut"/>Hobbies](#hobbies)
-* [<font-awesome-icon icon="users"/>Contact](#contact)
+I'm Aloys 29 years old, I'm currently working as an __Elite Cloud Support Engineer__ in France :fr: for [Platform.sh](https://platform.sh).
 
 
 <a name="languages"></a>
