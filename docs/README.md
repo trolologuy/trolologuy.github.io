@@ -1,13 +1,13 @@
 ---
-home: true,
-description: ... even if for now it's more of an improved CV
-heroText: Welcome to my portfolio
-heroImage: me.png
+home: true
+description: "... even if for now it's more of an improved CV"
+heroText: "Welcome to my portfolio"
+heroImage: "me.png"
 noGlobalSocialShare: true
-footer: made with vuepress, hosted on github
+footer: "made with vuepress, hosted on github"
 ---
 
-I'm Aloys 29 years old, I'm currently working as an __Elite Cloud Support Engineer__ in France :fr: for [Platform.sh](https://platform.sh).
+I'm Jacob, I am 25 years old, and I am currently working 
 
 * [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
 * [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
