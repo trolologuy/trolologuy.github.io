@@ -7,41 +7,36 @@ noGlobalSocialShare: true
 footer: made with vuepress, hosted on github
 ---
 
-I'm Aloys 29 years old, I'm currently working as an __Elite Cloud Support Engineer__ in France :fr: for [Platform.sh](https://platform.sh).
+I'm Jacob, I have 25 years old, I'm currently working as 
 
-* [<font-awesome-icon icon="language"/> Spoken Languages](#languages)
-* [<font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects](#projects)
-* [<font-awesome-icon icon="code"/> XP / Technical Skills](#skills)
-    * [<font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience](#sysadminxp)
-    * [<font-awesome-icon icon="code-branch"/> Programming / Scripting languages and technologies](#toolbox)
-* [<font-awesome-icon icon="user-astronaut"/> Hobbies](#hobbies)
-* [<font-awesome-icon icon="users"/> Contact](#contact)
+* [<font-awesome-icon icon="[language"/> Spoken Languages](#languages)
+* [<font-awesome-icon :icon="['fas','lightbulb']"/> Public Project](#projects)
+* [<font-awesome-icon icon="[code"/> XP / Technical Skills](#skills)
+* [<font-awesome-icon icon="[server"/> Short summary of my SysAdmin Experience](#sysadminxp)
+* [<font-awesome-icon icon="[code-branch"/> Programming / Scripting languages and technologies](#toolbox)
+* [<font-awesome-icon icon="[user-astronaut"/> Hobbies](#hobbies)
+* [<font-awesome-icon icon="[users"/> Contact](#contact)
 
 <a name="languages"></a>
 <br />
 
 ## <font-awesome-icon icon="language"/> Spoken Languages
-*Traveling and getting to know new cultures is an activity I value a lot.*
-*So far __I lived more than ten years abroad__ (Poland since 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
-
-- :fr: French (Native speaker)
-- :de: German (C2)
-- :uk: English (C1)
-- :poland: Polish (A1)
+*Self-improvement.*
+*Everything I have learned so far and what I will have the opportunity to learn in the future I will use in the future in a large project<font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />
 
 <a name="projects"></a>
 <br />
 
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Public Projects
 *Stay tuned, more will follow*
-* [My portfolio](https://github.com/trolologuy/trolologuy.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=trolologuy.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star My portfolio on GitHub"></iframe> - The page you are currently browsing is also one of my projects. It's based on [vuepress](https://vuepress.vuejs.org/) <font-awesome-icon :icon="['fab', 'vuejs']" />, it's automatically deployed using [Travis CI](https://travis-ci.com/) and automatically notifies me regarding the build state through a selfmade telegram <font-awesome-icon :icon="['fab', 'telegram']" /> bot (I use the same deployment system and technologies for *Useful Tools*).
-* [Useful Tools](https://trolologuy.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Useful Tools on GitHub"></iframe> - *Useful tools*  sorts the tools I gathered in the last years. They give me a solid base to start new projects.
-* [Dotfiles, config and more](https://github.com/trolologuy/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
-* [Update Notifier](https://github.com/trolologuy/update-notifier) - <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=update-notifier&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star update-notifier on GitHub"></iframe> - An utility that checks when updates for selected software is available. Built with Python3 <font-awesome-icon :icon="['fab', 'python']" />. Can be deployed through vagrant and docker <font-awesome-icon :icon="['fab', 'docker']" />. Sends notifications through Telegram <font-awesome-icon :icon="['fab', 'telegram']" /> .
+* [My portfolio](https://github.com/kubade220/kubade220.github.io) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=kubade220.github.io&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star My portfolio on GitHub"></iframe> - The page you are currently browsing is also one of my projects. It's based on [vuepress](https://vuepress.vuejs.org/) <font-awesome-icon :icon="['fab', 'vuejs']" />, it's automatically deployed using [Travis CI](https://travis-ci.com/) and automatically notifies me regarding the build state through a selfmade telegram <font-awesome-icon :icon="['fab', 'telegram']" /> bot (I use the same deployment system and technologies for *Useful Tools*).
+* [Useful Tools](https://kubade220.github.io/useful-tools/) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Useful Tools on GitHub"></iframe> - *Useful tools*  sorts the tools I gathered in the last years. They give me a solid base to start new projects.
+* [Dotfiles, config and more](https://github.com/kubade220/macOS-dotfiles-config-and-more) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=macOS-dotfiles-config-and-more&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Dotfiles, config and more on GitHub"></iframe> - A collection of everything I use to setup macOS <font-awesome-icon :icon="['fab', 'apple']" /> to suit my needs.
+* [Update Notifier](https://github.com/kubade220/update-notifier) - <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=update-notifier&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star update-notifier on GitHub"></iframe> - An utility that checks when updates for selected software is available. Built with Python3 <font-awesome-icon :icon="['fab', 'python']" />. Can be deployed through vagrant and docker <font-awesome-icon :icon="['fab', 'docker']" />. Sends notifications through Telegram <font-awesome-icon :icon="['fab', 'telegram']" /> .
 
-<a href="https://github.com/trolologuy">
+<a href="https://github.com/kubade220">
     <div style="padding: 20px; text-align: center;">
-        <img src="https://ghchart.rshah.org/trolologuy" alt="trolologuy's 2020 GitHub chart" />
+        <img src="https://ghchart.rshah.org/kubade220" alt="kubade220's 2020 GitHub chart" />
         <p><i>An overview of my GitHub contribution graph</i></p>
     </div>
 </a>
@@ -52,26 +47,18 @@ I'm Aloys 29 years old, I'm currently working as an __Elite Cloud Support Engine
 ## <font-awesome-icon icon="code"/> XP / Technical Skills
 *You can find here a short summary of my work experience. Let’s talk about it. I’ll be really happy to give you more details and answer your questions.*
 
-*As I started to study development, I’ve discovered how interested I was in System Administration / DevOps / SRE and Project Management and decided to go along with that.*
+*I started to be interested in systems administration in primary school because together with my friends we wanted to develop a place to which we would always be happy to return, regardless of age, education, origin or gender.*
 
-- :earth_africa: 2023 - current position : "__Elite Cloud Support Engineer__" working from the Homeoffice
-- :earth_africa: 2021 - 2023 : "__Technical Writer__" working from the Homeoffice
-- :earth_africa: 2020 - 2021 : "__Cloud Support Engineer__" working from the Homeoffice
-- :poland: 2019 - 2020: "__Operations Coordinator__" in Poland.
-- :de: 2018 - 2019: "__Web Support agent__" in Germany.
-- :de: 2016 - 2018: German Apprenticeship as "__Computer Science Expert with focus on System Integration__".
-- :fr: 2012 - 2014: Computer science studies in Epitech Strasbourg + 6 month Internship
+- :earth_africa: 2021 - current : Blockchain, Microsoft Azure, AWS, Google cloud.
+- :earth_africa: 2019 - 2021 : Docker, kali linux, plesk, clouds.
+- :earth_africa: 2010 - 2019 : Gaming, fun with scripting.
 
 <a name="sysadminxp"></a>
 <br />
 
 ### <font-awesome-icon icon="server"/> Short summary of my SysAdmin Experience
-During my apprenticeship I was the only Sysadmin in the company, setting up maintaining and securing servers and services but also managing users.
-
-Amongst other tools and services, I deployed Rocket.Chat (<font-awesome-icon :icon="['fab', 'rocketchat']" />) for the communication between the company and external contributors (a few hundred users in total), different mail servers (courier IMAP → Dovecot) and Webhosting Services (Confixx → Plesk migration, Apache / Nginx), ... I automated tasks using Bash and several CLI tools (IMAPsync, mjml.io ...).
-
-In the middle of my apprenticeship, I decided to change the company to join OVHcloud.
-My final project for the apprenticeship was setting up a clustered ELK-Stack (Elasticsearch, Kibana, Logstash) to monitor a fleet of machines and gain more insights about the performance of those machines.
+From the end of elementary school to the beginning of high school, I collected technical information about program files the possibilities of being a server administrator
+With a small budget, I managed to rent a vps on contabo.de, gather all the necessary files, run the programs and ban my friends, but first give them some money.
 
 <br />
 
@@ -85,11 +72,11 @@ My final project for the apprenticeship was setting up a clustered ELK-Stack (El
 
 <br />
 
-I've been the administrator of a gîte in Alsace (France) for more then 10 years, tasks included:
-- setting up the wifi: design the deployment, cable management, setting up the Access Points (Unifi), Setting up the Firewall (pfsense) and the VLANs, ... 
+for 4 years of high school and a little after graduation, I made it :
+- setting up the wifi: design the deployment, cable management, setting up the Access Points (mikrotik), Setting up the Firewall (pfsense) and the VLANs, ... 
 - managing the backup and data storage strategy on the NAS (Synology)
 - setting up the computers and managing them (<font-awesome-icon :icon="['fab', 'apple']" />, <font-awesome-icon :icon="['fab', 'windows']" />, <font-awesome-icon :icon="['fab', 'linux']" />) using tools such as JAMF, teamviewer, ...
-- creating, translating and maintaining the website (based on wordpress)
+- creating, translating and maintaining the website.
 
 *System Administration or Project Management are directions in which I would like to pursue my career. Having some experience in different fields allows me to have a good insight and a more in-depth understanding of underlying issues that can be faced when managing a project, or to spot difficulties in communication between techies and management and address them.*
 
@@ -151,7 +138,7 @@ Globally speaking I'm always keen to learn and on finding out how to further imp
 <br />
 
 ## <font-awesome-icon icon="users"/> Contact
-- [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
-- [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
-- [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)
-- Or you can contact me by sending an email to [this address](mailto:trolologuy.github@gmail.com).
+- [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/kubade220)
+- [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/8920982/kubade220)
+- [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/jakub-nabywaniec/)
+- Or you can contact me by sending an email to [this address](mailto:nabywaniecjakub@gmail.com).
