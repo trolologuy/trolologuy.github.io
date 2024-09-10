@@ -75,12 +75,12 @@ My final project for the apprenticeship was setting up a clustered ELK-Stack (El
 
 <br />
 
-*According to [Pluralsight IQ](https://stackoverflow.com/story/aloys):*
+*According to [Pluralsight IQ](https://trolologuy.github.io):*
 
 <div style="padding: 20px; text-align: center;">
-    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
-    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/nCM00.png" href="https://stackoverflow.com/story/aloys" alt="linux administration" width="250"/></a>
-    <a href="https://stackoverflow.com/story/aloys"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/5YB9e.png" href="https://stackoverflow.com/story/aloys" alt="python" width="250"/></a>
+    <a href="https://trolologuy.github.io"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
+    <a href="https://trolologuy.github.io"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/nCM00.png" href="https://trolologuy.github.io" alt="linux administration" width="250"/></a>
+    <a href="https://trolologuy.github.io"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/5YB9e.png" href="https://trolologuy.github.io" alt="python" width="250"/></a>
 </div>
 
 <br />
