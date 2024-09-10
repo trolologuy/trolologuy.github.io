@@ -75,12 +75,12 @@ My final project for the apprenticeship was setting up a clustered ELK-Stack (El
 
 <br />
 
-*According to [Pluralsight IQ](https://trolologuy.github.io):*
+*According to [Pluralsight IQ](https://www.pluralsight.com/product/skills-assessment):*
 
 <div style="padding: 20px; text-align: center;">
-    <a href="https://trolologuy.github.io"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/wVREY.png" alt="devops" width="250"/></a>
-    <a href="https://trolologuy.github.io"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/nCM00.png" href="https://trolologuy.github.io" alt="linux administration" width="250"/></a>
-    <a href="https://trolologuy.github.io"><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="https://i.stack.imgur.com/5YB9e.png" href="https://trolologuy.github.io" alt="python" width="250"/></a>
+    <a><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="../img/understanding-devops.png"" alt="test" width="250"/></a>
+    <a><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="../img/linux-administration.png" alt="linux administration" width="250"/></a>
+    <a><img style="-webkit-box-shadow: 0px 0px 25px 0px; -moz-box-shadow: 0px 0px 25px 0px; box-shadow: 0px 0px 25px 0px;" src="../img/python.png" alt="python" width="250"/></a>
 </div>
 
 <br />
@@ -152,6 +152,6 @@ Globally speaking I'm always keen to learn and on finding out how to further imp
 
 ## <font-awesome-icon icon="users"/> Contact
 - [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/trolologuy)
-- [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/story/2695641)
+- [<font-awesome-icon :icon="['fab', 'stack-overflow']" /> Stack Overflow](https://stackoverflow.com/users/2695641/trolologuy)
 - [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/aloys-dillar/)
 - Or you can contact me by sending an email to [this address](mailto:trolologuy.github@gmail.com).
