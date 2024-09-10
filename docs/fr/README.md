@@ -22,7 +22,7 @@ Je me présente, Aloys: 30 ans. Je travaille actuellement en France :fr: comme _
 
 ## <font-awesome-icon icon="language"/> Langues
 *Voyager et découvrir de nouvelles cultures est une activité que j'apprécie beaucoup.*
-*Jusqu'à présent __ j'ai vécu plus de dix ans à l'étranger__ (la Pologne depuis 7 mois, l'Allemagne pendant 11 ans et la France pour le reste). S'installer dans un nouveau pays requiert une certaine capacité d'adaptation et beaucoup de flexibilité. Ces dernières sont devenues une seconde nature pour moi. Passer du temps à l'étranger m'a permis de devenir plus ouvert d'esprit et d'améliorer ma capacité d'adaptation. Dans les années à venir, j'aimerais m'installer au Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, en Nouvelle-Zélande ou en Australie*
+*Jusqu'à présent __ j'ai vécu plus de dix ans à l'étranger__ (la Pologne pour 1 an, l'Allemagne pendant 11 ans et la France pour le reste). S'installer dans un nouveau pays requiert une certaine capacité d'adaptation et beaucoup de flexibilité. Ces dernières sont devenues une seconde nature pour moi. Passer du temps à l'étranger m'a permis de devenir plus ouvert d'esprit et d'améliorer ma capacité d'adaptation. Dans les années à venir, j'aimerais m'installer au Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, en Nouvelle-Zélande ou en Australie*
 
 - :fr: Français (Langue maternelle)
 - :de: Allemand (C2)

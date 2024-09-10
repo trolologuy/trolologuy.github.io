@@ -22,7 +22,7 @@ Ich heisse Aloys und bin 30 Jahre alt. Ich arbeite derzeit als __Elite Cloud Sup
 
 ## <font-awesome-icon icon="language"/> Sprachen
 *Reisen und sich mit neuen Kulturen auseinandersetzen ist eine Herausforderung, die ich sehr schätze.* 
-*__Bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__ (davon 7 Monate in Polen, 11 Jahre in Deutschland und in Frankreich bin ich aufgewachsen). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen. Dies würde mir dabei helfen diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.*
+*__Bisher habe ich bereits mehr als zehn Jahre im Ausland gelebt__ (davon 1 Jahr in Polen, 11 Jahre in Deutschland und in Frankreich bin ich aufgewachsen). Der Umzug in ein neues Land und die erforderliche Anpassungsfähigkeit und Flexibilität sind für mich zur zweiten Natur geworden. Im Ausland zu leben ermöglichte es mir, aufgeschlossener und anpassungsfähiger zu werden. In den kommenden Jahren würde ich gerne nach Kanada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, Neuseeland oder Australien ziehen. Dies würde mir dabei helfen diese Fähigkeiten weiter auszubauen und mich selbst weiter herausfordern.*
 
 - :fr: Franzözisch (Muttersprache)
 - :de: Deutsch (C2)

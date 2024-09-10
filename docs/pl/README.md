@@ -26,7 +26,7 @@ Jestem Aloys, 30 lat. Obecnie pracuję jako __Elite Cloud Support Engineer__ w F
 
 ## <font-awesome-icon icon="language"/> Języki mówione
 *Podróżowanie i poznawanie nowych kultur jest zajęciem, które bardzo cenię.*
-*Do tej pory __Żyłem ponad dziesięć lat za granicą__ (Polska przez 7 miesięcy, Niemcy przez 11 lat, a Francja przez resztę). Przeprowadzka do nowego kraju oraz wymagane zdolności adaptacyjne i elastyczność stały się dla mnie drugą naturą. Spędzenie czasu za granicą pozwoliło mi stać się bardziej otwartym i zdolnym do adaptacji. W najbliższych latach chciałbym przenieść się do Kanady <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />. Nową Zelandię lub Australię, aby jeszcze bardziej /poprawić te umiejętności i rzucić sobie wyzwanie.*
+*Do tej pory __Żyłem ponad dziesięć lat za granicą__ (Polska przez jeden lat, Niemcy przez 11 lat, a Francja przez resztę). Przeprowadzka do nowego kraju oraz wymagane zdolności adaptacyjne i elastyczność stały się dla mnie drugą naturą. Spędzenie czasu za granicą pozwoliło mi stać się bardziej otwartym i zdolnym do adaptacji. W najbliższych latach chciałbym przenieść się do Kanady <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />. Nową Zelandię lub Australię, aby jeszcze bardziej /poprawić te umiejętności i rzucić sobie wyzwanie.*
 
 - :fr: Francuski (native speaker)
 - :de: Niemiecki (C2)

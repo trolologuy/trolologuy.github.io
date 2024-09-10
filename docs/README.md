@@ -22,7 +22,7 @@ I'm Aloys 30 years old, I'm currently working as an __Elite Cloud Support Engine
 
 ## <font-awesome-icon icon="language"/> Spoken Languages
 *Traveling and getting to know new cultures is an activity I value a lot.*
-*So far __I lived more than ten years abroad__ (Poland since 7 months, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
+*So far __I lived more than ten years abroad__ (Poland for a year, Germany for 11 years and France for the rest). Moving to a new country and the required adaptability and flexibility have become a second nature for me. Spending time abroad allowed me to become more open-minded and adaptable. In the upcoming years I'd like to move to Canada <font-awesome-icon :icon="['fab', 'canadian-maple-leaf']" />, New Zealand or Australia to further improve those skills and challenge myself even further*
 
 - :fr: French (Native speaker)
 - :de: German (C2)
