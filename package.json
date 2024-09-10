@@ -3,11 +3,11 @@
     "@vuepress/plugin-back-to-top": "^1.4.1",
     "@vuepress/plugin-nprogress": "^1.4.1",
     "typescript": "^3.8.3",
-    "vuepress": "^1.4.1",
+    "vuepress": "^1.9.10",
     "vuepress-plugin-mermaidjs": "^1.5.1",
     "vuepress-plugin-social-share": "^0.2.1",
     "vuepress-theme-dark": "^0.1.0",
-    "vuepress-theme-succinct": "^1.4.0"
+    "vuepress-theme-succinct": "^1.7.2"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
