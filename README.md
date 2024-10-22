@@ -6,6 +6,7 @@ The build is automated through [GitHub Pages](https://docs.github.com/en/pages/q
 <!-- As per https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge -->
 
 Notifications regarding the build state are sent through a Telegram bot integration, [all the details can be found in this gist](https://gist.github.com/trolologuy/c290ac3edc46fe6bc2b69ccc497cd4bc).
+
 Uptime monitoring happens with [uptime robot](https://uptimerobot.com). 
 
 To access the live version of the portfolio, [click here](https://trolologuy.github.io/)
