@@ -70,6 +70,6 @@ module.exports = {
     //- Define the variables here
     linkedin: 'https://www.linkedin.com/in/aloys-dillar/',
     github: 'https://github.com/trolologuy/',
-    stackoverflow: 'https://stackoverflow.com/story/aloys',
+    stackoverflow: 'https://stackoverflow.com/users/2695641/trolologuy',
   },
 }

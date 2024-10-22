@@ -1,18 +1,17 @@
 # About
 
-This portfolio was created using [vuepress](vuepress.vuejs.org/) with tweaks to the [succinct](https://github.com/Microflash/vuepress-theme-succinct) theme.
+This portfolio was created using [vuepress](https://vuepress.vuejs.org/) with tweaks to the [succinct](https://github.com/Microflash/vuepress-theme-succinct) theme.
 
 The build is automated through [GitHub Pages](https://docs.github.com/en/pages/quickstart), its status is ![build status](https://github.com/trolologuy/trolologuy.github.io/actions/workflows/main.yml/badge.svg).
 <!-- As per https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge -->
 
-Notifications regarding the build state are sent through a Telegram bot integration, [all the details can be found in this gist](https://gist.github.com/trolologuy/c290ac3edc46fe6bc2b69ccc497cd4bcq).
+Notifications regarding the build state are sent through a Telegram bot integration, [all the details can be found in this gist](https://gist.github.com/trolologuy/c290ac3edc46fe6bc2b69ccc497cd4bc).
 Uptime monitoring happens with [uptime robot](https://uptimerobot.com). 
 
 To access the live version of the portfolio, [click here](https://trolologuy.github.io/)
 
-To access the roadmap, [click here](https://github.com/trolologuy/trolologuy.github.io/projects/1)
-
 ## Installation details
+
 <details>
 <summary>click here</summary>
 
@@ -29,6 +28,18 @@ yarn add -D vuepress-theme-succinct
 ```
 
 [Source](https://github.com/Microflash/vuepress-theme-succinct)
+
+## Maintenance
+
+Test locally:
+```
+vuepress dev
+```
+
+Rebuild the docs:
+```
+vuepress build docs
+```
 
 ## install the plugins
 
@@ -78,4 +89,5 @@ yarn add vuepress-plugin-social-share -D
 * [vuepress-theme-hope](https://github.com/Mister-Hope/vuepress-theme-hope)
 * [vuepress-theme-ktquez](https://github.com/ktquez/vuepress-theme-ktquez)
 * [vuepressbook](https://vuepressbook.com/)
+
 </details>
