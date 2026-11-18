@@ -9661,6 +9661,11 @@ websocket-extensions@>=0.1.1, websocket-extensions@>=0.2.0:
   resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.2.0.tgz#9b0dbdfd847e9dc2755854924d1c79025b800001"
   integrity sha512-vQaTTgDDgwlrreIJAprknlnvEtZMMxfLqoxyQYnWO8dgcz2qIzQNysCpwOekz8kqLvzrZ0dcaL9hejZ+2AszCA==
 
+websocket-extensions@>=0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.2.0.tgz#9b0dbdfd847e9dc2755854924d1c79025b800001"
+  integrity sha512-vQaTTgDDgwlrreIJAprknlnvEtZMMxfLqoxyQYnWO8dgcz2qIzQNysCpwOekz8kqLvzrZ0dcaL9hejZ+2AszCA==
+
 when@~3.6.x:
   version "3.6.4"
   resolved "https://registry.yarnpkg.com/when/-/when-3.6.4.tgz#473b517ec159e2b85005497a13983f095412e34e"
