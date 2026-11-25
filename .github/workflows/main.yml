@@ -50,6 +50,8 @@ jobs:
   deploy:
     # Add a dependency to the build job
     needs: build
+    # Pull requests only build: GitHub Pages accepts deployments from main only (environment protection)
+    if: github.event_name != 'pull_request'
 
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
